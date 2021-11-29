@@ -18,6 +18,7 @@
 /// [goto-80](https://www.goto80.com/)
 /// [linuxbbq](https://linuxbbq.com/)
 /// [lolcow](https://lolcow.farm/)
+/// [minimal-gallery](https://minimal.gallery/)
 /// [moog](https://www.moogmusic.com/)
 /// [orbitalfox](https://texts.orbitalfox.eu/)
 /// [satan-shoes](https://satan.shoes/)
