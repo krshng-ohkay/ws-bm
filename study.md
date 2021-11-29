@@ -19,6 +19,7 @@
 /// [learn-anything](https://learn-anything.xyz/)
 /// [learn-o-hub](https://examfear.com/)
 /// [leon](https://getleon.ai/)
+/// [libre-texts](https://libretexts.org/)
 /// [lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
 /// [masterplan](https://github.com/SolarLune/masterplan)
 /// [mathigon](https://mathigon.org/)
