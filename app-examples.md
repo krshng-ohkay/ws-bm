@@ -1,0 +1,14 @@
+## app-examples
+
+/// [astro](https://github.com/blmayer/astro)
+/// [barsh](https://github.com/dylanaraps/barsh)
+/// [bash-notes](https://github.com/dbluhm/bash-notes)
+/// [bashblog](https://github.com/cfenollosa/bashblog)
+/// [bashtop](http://loh-tar.github.io/tbsm/)
+/// [bed](https://github.com/comfies/bed)
+/// [birch](https://github.com/dylanaraps/birch)
+/// [fff](https://github.com/dylanaraps/fff)
+/// [j](https://inkdroid.org/2021/03/27/j/)
+/// [nb](https://github.com/xwmx/nb)
+/// [shfm](https://github.com/dylanaraps/shfm)
+///
