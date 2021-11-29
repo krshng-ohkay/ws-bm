@@ -9,6 +9,7 @@
 /// [adam-le-doux](http://www.ledoux.io/)
 /// [aditya-shakya](https://github.com/adi1090x)
 /// [agat](https://agat.itch.io/)
+/// [alyssa-x](https://alyssax.com/)
 /// [amber-grace-johnson](https://www.ambergracejohnson.com/)
 /// [andrew-plotkin](https://zarfhome.com/)
 /// [andy-makes](https://andymakesgames.tumblr.com/)
