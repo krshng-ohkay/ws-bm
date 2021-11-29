@@ -26,6 +26,7 @@
 /// [hacking-vision](https://hackingvision.com/)
 /// [javatpoint-tutorial](https://www.javatpoint.com/ethical-hacking-tutorial)
 /// [lazyaircrack](https://github.com/3xploitGuy/lazyaircrack)
+/// [linux-essentials-for-ethical-hackers](https://www.freecodecamp.org/news/linux-essentials-for-hackers/)
 /// [nmap](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
 /// [null-byte](https://null-byte.wonderhowto.com)
 /// [phone-scraper](https://github.com/thomasgruebl/phone-scraper)
