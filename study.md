@@ -5,6 +5,7 @@
 /// [book-recomendations-federico](https://federicoterzi.com/books/)
 /// [busting-jee-mains](https://bustingjeemain.com/)
 /// [conway-game-of-life](https://www.conwaylife.com/)
+/// [cryptpad](https://pad.tildeverse.org/)
 /// [difference-between](http://www.differencebetween.net/)
 /// [dominator](https://www.baucomrobotics.com/domino-robot)
 /// [doubtnut](https://doubtnut.com/)
