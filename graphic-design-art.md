@@ -75,6 +75,7 @@
 /// [text-mode](https://text-mode.tumblr.com/)
 /// [textual](https://github.com/willmcgugan/textual)
 /// [themer](https://themer.dev/)
+/// [tinker-cad](https://www.tinkercad.com/)
 /// [tui-rs](https://github.com/fdehau/tui-rs)
 /// [types-of-graphic-design](https://99designs.com/blog/tips/types-of-graphic-design/)
 /// [tview](https://github.com/rivo/tview)
