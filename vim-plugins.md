@@ -38,6 +38,7 @@
 
 /// [color-template](https://github.com/lifepillar/vim-colortemplate)
 /// [gotham](https://github.com/whatyouhide/vim-gotham)
+/// [moonfly](https://github.com/bluz71/vim-moonfly-colors)
 /// [nightfox](https://github.com/EdenEast/nightfox.nvim)
 /// [robpur](https://github.com/skurob/robpur-vim)
 /// [tokyo](https://github.com/folke/tokyonight.nvim)
