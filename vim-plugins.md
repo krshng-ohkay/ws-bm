@@ -37,6 +37,7 @@
 ///
 
 /// [color-template](https://github.com/lifepillar/vim-colortemplate)
+/// [256noir](https://github.com/andreasvc/vim-256noir)
 /// [gotham](https://github.com/whatyouhide/vim-gotham)
 /// [moonfly](https://github.com/bluz71/vim-moonfly-colors)
 /// [nightfox](https://github.com/EdenEast/nightfox.nvim)
