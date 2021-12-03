@@ -51,6 +51,7 @@
 ///
 
 /// [tildeverse](https://tildeverse.org/)
+/// [ctrl-c-club](https://ctrl-c.club/)
 /// [tilde-cafe](https://tilde.cafe/)
 /// [tilde-chat](https://tilde.chat/)
 /// [tilde-club](http://tilde.club/)
