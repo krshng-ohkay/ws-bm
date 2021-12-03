@@ -10,6 +10,7 @@
 /// [kotlin-lang](https://kotlinlang.org)
 /// [lisp-lang](https://lisp-lang.org/)
 /// [perl-lang](https://www.perl.org/)
+/// [php-lang](https://www.php.net/)
 /// [red-lang](https://www.red-lang.org/)
 /// [retro-forth-lang](http://www.retroforth.org/)
 /// [ruby-lang](https://www.ruby-lang.org/en/)
