@@ -193,6 +193,7 @@
 /// [turkey-mcmac](https://github.com/TurkeyMcMac)
 /// [usebox](gemini://capsule.usebox.net/games/)
 /// [v-os](https://v-os.ca/home)
+/// [vilmibm](https://tilde.town/~vilmibm/)
 /// [war-and-peas](https://warandpeas.com/)
 /// [watabou](https://github.com/watabou)
 /// [watabou-itch](https://watabou.itch.io/)

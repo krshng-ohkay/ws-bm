@@ -6,7 +6,6 @@
 /// [bbbhltz](gemini://gemini.bbbhltz.space/)
 /// [bombadillo](https://bombadillo.colorfield.space/)
 /// [castro](https://sr.ht/~julienxx/Castor/)
-/// [cosmic-voyage](https://cosmic.voyage/)
 /// [curiouser](http://tilde.town/~curiouser/)
 /// [drskrzyk](gemini://drskrzyk.com/)
 /// [elaho-ios-client](https://github.com/pitr/gemini-ios)
@@ -46,11 +45,11 @@
 /// [susa](gemini://gemini.susa.net/)
 /// [treeblue](gemini://review.treeblue.space/)
 /// [typed-hole](gemini://typed-hole.org/)
-/// [vilmibm](https://tilde.town/~vilmibm/)
 /// [warp-engineer](gemini://warpengineer.space/index.gemini)
 ///
 
 /// [tildeverse](https://tildeverse.org/)
+/// [cosmic-voyage](https://cosmic.voyage/)
 /// [ctrl-c-club](https://ctrl-c.club/)
 /// [rw-rs](http://rw.rs/)
 /// [tilde-cafe](https://tilde.cafe/)
