@@ -86,6 +86,7 @@
 /// [effective-shell](https://effective-shell.com/)
 /// [enhanced-shell-scripting-ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
 /// [executable-pngs](https://djharper.dev/post/2020/12/26/executable-pngs/)
+/// [exercism](https://exercism.org/)
 /// [fish](https://fishshell.com/)
 /// [forth-interest-group](http://www.forth.org/)
 /// [fortran-wiki](https://fortranwiki.org/fortran/show/HomePage)
