@@ -1,6 +1,6 @@
 # Summary
 
-- [website-bookmarks](./website-bookmarks.md) 
+- [website-bookmarks](./index.md)
   - [study](./study.md)
   - [awesome-list](./awesome-list.md)
   - [smolnet](./smolnet.md)
@@ -14,7 +14,6 @@
   - [fonts](./fonts.md)
   - [game-design](./game-design.md)
   - [games](./games.md)
-  - [gemini/gopher/tilde](./gemini-gopher-tilde.md)
   - [graphic-design/art/ui/tui](./graphic-design-art.md)
   - [linux/operating-systems](./linux.md)
   - [music-production](./music-prod.md)
@@ -32,4 +31,3 @@
   - [website-examples](./website-examples.md)
   - [app-examples](./app-examples.md)
   - [misc-websites](./misc-websites.md)
-
