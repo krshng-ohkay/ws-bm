@@ -9,6 +9,7 @@
 // [difference-between](http://www.differencebetween.net/)
 // [dominator](https://www.baucomrobotics.com/domino-robot)
 // [doubtnut](https://doubtnut.com/)
+// [eclectic-library](https://eclectic-library.neocities.org/)
 // [edx](https://www.edx.org/)
 // [everything-i-know](https://wiki.nikitavoloboev.xyz/)
 // [focalboard](https://www.focalboard.com/)
