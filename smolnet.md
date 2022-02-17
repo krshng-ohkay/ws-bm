@@ -33,6 +33,7 @@
 /// [phetch](https://github.com/xvxx/phetch)
 /// [pollux-casa](gemini://pollux.casa/)
 /// [of-many-trades](gemini://ofmanytrades.com/)
+/// [oh.mg](gemini://om.gay/)
 /// [oppen-digital](gemini://oppen.digital/)
 /// [other-tildes](http://tilde.club/~pfhawkins/othertildes.html)
 /// [rawtext-club](https://rawtext.club/)
