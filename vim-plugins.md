@@ -42,6 +42,7 @@
 // [moonfly](https://github.com/bluz71/vim-moonfly-colors)
 // [nightfox](https://github.com/EdenEast/nightfox.nvim)
 // [robpur](https://github.com/skurob/robpur-vim)
+// [sunbather](https://github.com/nikolvs/vim-sunbather)
 // [tokyo](https://github.com/folke/tokyonight.nvim)
 // [vim-colorschemes](https://vimcolorschemes.com/)
 //
