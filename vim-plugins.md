@@ -17,6 +17,7 @@
 // [gitgutter](https://github.com/airblade/vim-gitgutter)
 // [goyo](https://github.com/junegunn/goyo.vim)
 // [i-suck-at-spelling](https://github.com/Pocco81/ISuckAtSpelling.nvim)
+// [lightline](https://github.com/itchyny/lightline.vim)
 // [limelight](https://github.com/junegunn/limelight.vim)
 // [lunarvim](https://github.com/LunarVim/LunarVim)
 // [neovide](https://github.com/Kethku/neovide)
