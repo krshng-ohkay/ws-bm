@@ -35,6 +35,7 @@
 // [syntastic](https://github.com/vim-syntastic/syntastic)
 // [vim-awesome](https://vimawesome.com/)
 // [vim-plug](https://github.com/junegunn/vim-plug)
+// [you-complete-me](https://github.com/ycm-core/YouCompleteMe)
 //
 
 // [color-template](https://github.com/lifepillar/vim-colortemplate)
