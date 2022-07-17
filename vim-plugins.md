@@ -9,6 +9,7 @@
 // [codi](https://github.com/metakirby5/codi.vim)
 // [ddc](https://github.com/Shougo/ddc.vim)
 // [devicons](https://github.com/ryanoasis/vim-devicons)
+// [easymotion](https://github.com/easymotion/vim-easymotion)
 // [emmet](https://github.com/mattn/emmet-vim)
 // [floaterm](https://github.com/voldikss/vim-floaterm)
 // [fugitive](https://github.com/tpope/vim-fugitive)
