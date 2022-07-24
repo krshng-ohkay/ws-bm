@@ -127,6 +127,7 @@
 // [learn-cpp](https://www.learncpp.com/)
 // [learn-go](https://golangr.com/)
 // [learn-programming-wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
+// [learn-python](https://www.learnpython.org/)
 // [learn-x-in-y-mins](https://learnxinyminutes.com)
 // [learn-you-bash](https://github.com/denysdovhan/learnyoubash)
 // [llvm](https://llvm.org/)
