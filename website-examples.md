@@ -17,6 +17,7 @@
 // [fwa-website-awards](https://thefwa.com/)
 // [galax](https://galax.xyz/)
 // [goto-80](https://www.goto80.com/)
+// [guide-dog-games](https://guidedoggames.com:7081/)
 // [linuxbbq](https://linuxbbq.com/)
 // [lolcow](https://lolcow.farm/)
 // [minimal-gallery](https://minimal.gallery/)
