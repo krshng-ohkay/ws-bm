@@ -12,5 +12,6 @@
 // [fff](https://github.com/dylanaraps/fff)
 // [j](https://inkdroid.org/2021/03/27/j/)
 // [nb](https://github.com/xwmx/nb)
+// [paper-phone](https://specialprojects.studio/project/paper-phone/)
 // [shfm](https://github.com/dylanaraps/shfm)
 //
