@@ -34,7 +34,7 @@
 // [open-vim](https://www.openvim.com/)
 // [organic-chemistry](http://www.3rd1000.com/chem301/chem30.htm)
 // [orthona](http://www.orthona.net/)
-// [PA2](https://classroom.google.com/u/0/c/MTIyMDMwMjYyMTg5)
+// [paper-data-storage](https://www.monperrus.net/martin/store-data-paper)
 // [periodic-table](https://www.webelements.com/)
 // [personal-management-system](https://github.com/Volmarg/personal-management-system)
 // [pomotroid](https://splode.github.io/pomotroid/)
