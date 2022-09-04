@@ -165,6 +165,7 @@
 // [rekonq](https://github.com/ivan-avalos/rekonq)
 // [repl](https://github.com/repl-cli/REPL)
 // [rockout](https://www.matthewgraybosch.com/unix/rockout/)
+// [rofigen](https://github.com/losoliveirasilva/rofigen)
 // [rover](https://github.com/lecram/rover)
 // [rpg-cli](https://github.com/facundoolano/rpg-cli)
 // [runner](https://github.com/stylemistake/runner)
