@@ -11,6 +11,7 @@
 // [doubtnut](https://doubtnut.com/)
 // [eclectic-library](https://eclectic-library.neocities.org/)
 // [edx](https://www.edx.org/)
+// [electronics-tutorials](https://www.electronics-tutorials.ws/)
 // [everything-i-know](https://wiki.nikitavoloboev.xyz/)
 // [focalboard](https://www.focalboard.com/)
 // [gurmeet](https://gurmeet.net/)
