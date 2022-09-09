@@ -89,6 +89,7 @@
 // [hascard](https://github.com/Yvee1/hascard)
 // [helix](https://helix-editor.com/)
 // [hexyl](https://github.com/sharkdp/hexyl)
+// [hkkr.in](https://github.com/NalinPlad/hkkr.in)
 // [hledger](https://hledger.org/)
 // [hollywood](https://github.com/dustinkirkland/hollywood)
 // [hr](https://github.com/LuRsT/hr)
