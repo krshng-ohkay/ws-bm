@@ -10,6 +10,7 @@
 // [janet-lang](https://janet-lang.org/)
 // [kotlin-lang](https://kotlinlang.org)
 // [lisp-lang](https://lisp-lang.org/)
+// [percival](https://github.com/ekzhang/percival)
 // [perl-lang](https://www.perl.org/)
 // [php-lang](https://www.php.net/)
 // [red-lang](https://www.red-lang.org/)
