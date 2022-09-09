@@ -65,6 +65,7 @@
 // [code-pad](http://codepad.org/)
 // [code-with-harry](https://www.codewithharry.com/)
 // [codewars](https://www.codewars.com/)
+// [coding-books](https://github.com/huyubing/books-pdf)
 // [coding-dojo-algorithms-cs](https://algorithm.codingdojo.com/lesson)
 // [codingbat-python-tutorial](https://codingbat.com/python)
 // [cohort](https://groupsforlearning.com)
