@@ -1,6 +1,8 @@
 ## misc-websites
 
 // [247-games](https://www.247games.com/#categories)
+//
+
 // [a-tiny-adventure](https://uneminiaventure.fr/en#chap-03)
 // [a-to-z-of-ai](https://atozofai.withgoogle.com/)
 // [academia](https://www.academia.edu/)
@@ -12,6 +14,8 @@
 // [art-breeder](https://www.artbreeder.com/)
 // [asciinema](https://asciinema.org)
 // [atom-smasher](http://atom.smasher.org/)
+//
+
 // [backlog](https://github.com/czytelny/backlog)
 // [bambaiya-slangs](https://www.mumbai77.com/city/2819/travel/slangs/)
 // [bbs-documentary](http://www.bbsdocumentary.com/)
@@ -24,6 +28,8 @@
 // [braingle](https://www.braingle.com)
 // [brainzilla-zebra-puzzles](https://www.brainzilla.com/logic/zebra/)
 // [break-into-chat-bbs](https://breakintochat.com/)
+//
+
 // [calligrapher](https://www.calligrapher.ai/)
 // [circle-wood-house](https://www.yankodesign.com/2021/04/09/this-circular-house-is-inspired-by-a-cut-tree-trunk-was-made-to-blend-into-the-surrounding-pine-forest/)
 // [clients-from-hell](https://clientsfromhell.net/)
@@ -33,14 +39,20 @@
 // [cryptography-with-matrices](https://math.libretexts.org/Bookshelves/Applied_Mathematics/Book%3A_Applied_Finite_Mathematics_(Sekhon_and_Bloom)/02%3A_Matrices/2.05%3A_Application_of_Matrices_in_Cryptography)
 // [cyberdeck-card-game](https://www.cyberdeck.eu)
 // [cyberpunk-websites](https://www.reddit.com/r/Cyberpunk/comments/5ve3ok/what_are_your_favorite_cyberpunk_websites/)
+//
+
 // [d-zone](https://github.com/d-zone-org/d-zone/tree/master)
 // [devrant](https://devrant.com/)
 // [dracula-theme-wallpaper](https://draculatheme.com/wallpaper)
 // [dracula-theme](https://draculatheme.com/)
 // [dusk-macos-icons](https://dusk.now.sh)
 // [dynamicland](https://dynamicland.org/)
+//
+
 // [espanso](https://espanso.org/)
 // [experiments-with-google](https://experiments.withgoogle.com/)
+//
+
 // [fairlight-cmi](https://www.youtube.com/watch?time_continue=125&v=iOlPCpSmhRM&feature=emb_logo)
 // [fanlore](https://fanlore.org/wiki/Main_Page)
 // [fdm](https://www.freedownloadmanager.org/)
@@ -49,11 +61,15 @@
 // [filezilla](https://filezilla-project.org/)
 // [foaas](https://foaas.com/)
 // [formula-e](https://www.fiaformulae.com/)
+//
+
 // [game-of-life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 // [gamebook](https://en.wikipedia.org/wiki/Gamebook)
 // [gitter](https://gitter.im/)
 // [google-solitaire](https://www.google.co.in/logos/fnbx/solitaire/standalone.html)
 // [goto-directory](https://github.com/iridakos/goto)
+//
+
 // [hacker-news](https://news.ycombinator.com/)
 // [hardly-everything](https://www.hardlyeverything.com/)
 // [haunted-by-data](https://idlewords.com/talks/haunted_by_data.htm)
@@ -61,6 +77,8 @@
 // [hex-edit](https://hexed.it)
 // [hotcars](https://www.hotcars.com/)
 // [hugo-ssg](https://gohugo.io/)
+//
+
 // [ilovepdf](https://www.ilovepdf.com/)
 // [impermanence](https://www.impermanence.us/)
 // [input-magazine](https://www.inputmag.com/)
@@ -68,14 +86,22 @@
 // [install-wine-on-manjaro](https://linuxconfig.org/install-wine-on-manjaro)
 // [ios-games-reviews](https://appadvice.com/game)
 // [ipfs](https://ipfs.io)
+//
+
 // [jumpjet](http://www.jumpjet.info)
+//
+
 // [kalidoface](https://kalidoface.com)
 // [keybr](https://watchandcode.com/)
 // [kboard](https://github.com/CamiloGarciaLaRotta/kboard)
 // [kensa-pen](https://www.kickstarter.com/projects/cowellstudio/kensa-a-slim-minimal-hexagonal-pen-and-mechanical)
 // [kickstarter](https://kickstarter.com)
+//
+
 // [litrpg](https://en.wikipedia.org/wiki/LitRPG)
 // [lofi-hip-hop-radio](https://lofiin.com/)
+//
+
 // [mame-dev-emulator](https://www.mamedev.org/)
 // [manga-dex](https://mangadex.tv/)
 // [marvel-movies-chronology](https://external-preview.redd.it/G_RZTeuGxigUXszO5Aie1hGIGxXS5cm7oyuVFMghUYw.jpg?auto=webp&s=d9b21762ad5f33b28983f5db8bcdccd6fcf42538)
@@ -86,21 +112,31 @@
 // [murderpedia](http://murderpedia.org/index.htm)
 // [muscle-wiki](https://musclewiki.org/)
 // [mythical-society](https://www.mythicalsociety.com/)
+//
+
 // [neon-dystopia](https://www.neondystopia.com)
 // [nightride-fm](https://nightride.fm/about?station=nightride)
 // [nsfw-movies](https://www.scoopwhoop.com/erotic-movies/)
+//
+
 // [octolinker](https://github.com/OctoLinker/OctoLinker)
 // [online-converter](https://www.online-convert.com/)
 // [open-broadcaster-software](https://obsproject.com/)
 // [organice](https://github.com/200ok-ch/organice)
+//
+
 // [pathephone](https://pathephone.github.io/)
 // [persepolis](https://persepolisdm.github.io/)
 // [pixel-it](https://giventofly.github.io/pixelit/)
 // [plain-text-table](https://plaintexttools.github.io/plain-text-table/)
 // [proxy-bay](http://proxybay.github.io/)
+//
+
 // [qt-dialogue-posters](https://www.scoopwhoop.com/entertainment/39-quotes-tarantino-films/)
 // [quadplay](https://github.com/morgan3d/quadplay)
 // [quotes-on-design](https://quotesondesign.com/)
+//
+
 // [redbled-nsfw](https://www.redbled.com/)
 // [researcher](https://www.researcher-app.com/)
 // [retro-arch](https://www.retroarch.com)
@@ -110,6 +146,8 @@
 // [rot-13](https://rot13.com)
 // [royal-wedding](https://www.youtube.com/watch?v=Qcj15vHJTtk)
 // [rupe-india](https://rupe-india.org/)
+//
+
 // [secret-rick-roll](https://www.secretrickroll.com/)
 // [share-x](https://getsharex.com/)
 // [snapdrop](https://snapdrop.net/#)
@@ -122,6 +160,8 @@
 // [stacher-youtube-dl](https://stacher.io)
 // [star-realms](http://www.starrealms.com/learn-to-play/)
 // [superprof](https://www.superprof.co.in/)
+//
+
 // [teletext-art-tumblr](https://teletextart.tumblr.com/)
 // [textfiles](http://textfiles.com/)
 // [the-audacity-to-podcast](https://theaudacitytopodcast.com/)
@@ -130,16 +170,24 @@
 // [todometer](https://github.com/cassidoo/todometer)
 // [tridactyl-firefox](https://github.com/tridactyl/tridactyl)
 // [turn-based-strategy-games-wiki](https://en.m.wikipedia.org/wiki/Turn-based_strategy)
+//
+
 // [unicode-table](https://unicode-table.com/en/)
 // [unsolved-mysteries](https://www.rd.com/list/strangest-unsolved-mysteries/)
 // [usb-formatting](https://diarium.usal.es/pmgallardo/2020/05/01/how-to-fix-an-unreadable-usb-flash-drive-on-ubuntu/)
+//
+
 // [vim-navigation](https://susamn.medium.com/its-time-to-navigate-effectively-in-vim-a-visual-article-e23afab7f2e)
 // [vintage-js](https://vintagejs.com/)
 // [voxelmade](https://www.voxelmade.com/)
+//
+
 // [wct](https://www.worldchasetag.com/)
 // [whats-my-browser](https://www.whatsmybrowser.org/)
 // [wikiwand](https://www.wikiwand.com/)
 // [wombo](https://www.wombo.ai/)
+//
+
 // [yay-text](https://yaytext.com/)
 // [yes-theory](https://yestheory.com/)
 // [yooh-meme-maker](https://yooh.io)
