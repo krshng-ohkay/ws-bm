@@ -1,6 +1,8 @@
 ## portfolio-websites
 
 // [100-rabbits](https://github.com/hundredrabbits)
+//
+
 // [aardman-animations](https://www.aardman.com/)
 // [aaron-janse](https://github.com/aaronjanse)
 // [aaron-steed](http://robotacid.com/)
@@ -15,6 +17,8 @@
 // [andy-makes](https://andymakesgames.tumblr.com/)
 // [ashner-vollmer](https://ashervollmer.tumblr.com/home)
 // [ass-cheek-valley](https://co-mill.tumblr.com/)
+//
+
 // [audiodude](https://github.com/audiodude)
 // [baca](https://bacaworld.org/)
 // [baucom-robotics](https://www.baucomrobotics.com/)
@@ -24,6 +28,8 @@
 // [bizarro](https://www.bizarro.com/)
 // [brian-lunduke](http://lunduke.com/)
 // [bruno-simon](https://bruno-simon.com/)
+//
+
 // [c9x](https://c9x.me/)
 // [candle](https://candle.itch.io/)
 // [carolina-eyck](https://www.carolinaeyck.com/)
@@ -41,6 +47,8 @@
 // [compudanzas](https://compudanzas.net/)
 // [computerbrains](http://www.computerbrains.com/)
 // [cosmic-adventure-squad](https://cosmicadventuresquad.itch.io/)
+//
+
 // [dan-farrimond](http://danfarrimond.co.uk/)
 // [daniel-linssen](https://managore.itch.io/)
 // [danny-ben](https://github.com/dannyben)
@@ -60,32 +68,45 @@
 // [drew-friendo](https://friendo.monster/)
 // [dystroy](https://dystroy.org/)
 // [dylan-araps](https://github.com/dylanaraps/)
+//
+
 // [eboy](https://hello.eboy.com/pool/everything/1)
 // [egoist](https://github.com/egoist)
 // [emma-essex](https://www.heckscaper.com/)
 // [eric-wastl](http://was.tl)
 // [erika-moreira](https://erikamoreira.co/)
 // [esoteric-codes](https://esoteric.codes/)
+//
+
 // [facundo-olano](https://github.com/facundoolano)
 // [forest-ambassador](https://forestambassador.com/)
 // [fred-bednarski](https://vonbednar.itch.io/)
 // [free-lives](https://freelives.net/)
 // [funny-or-die](https://www.funnyordie.com/)
 // [future-power-staion](https://www.futurepowerstation.com/)
+//
+
 // [gabriella-antali](http://www.gabriellaantali.com/)
 // [geek-and-sundry](https://geekandsundry.com)
 // [gothenburg-bit-factory](https://gothenburgbitfactory.org/)
 // [goto-80](https://www.goto80.com/)
 // [guide-dog-games](https://guidedoggames.com:7081/)
+//
+
 // [hacker097](https://github.com/HACKER097)
 // [hcv](http://www.hcverma.in/)
 // [horsenburger](https://www.horsenburger.com/)
 // [house-of-saud](https://houseofsaud.com/)
 // [hugh-rundle](https://www.hughrundle.net/)
+//
+
+// [ian-henry](https://ianthehenry.com/)
 // [increpare](https://www.increpare.com/)
 // [inkle-studios](http://anchorhead-game.com/)
 // [internet-janitor](https://internet-janitor.itch.io/)
 // [ivan-pasenko](http://www.ivanpanasenko.com)
+//
+
 // [jake-parker](https://www.mrjakeparker.com/)
 // [janne-iivonen](http://janneiivonen.net/)
 // [jeff-wu](https://www.wuthejeff.com/)
@@ -99,9 +120,13 @@
 // [juhana-leinonen](https://nitku.net/blog/)
 // [julia-evans](https://github.com/jvns)
 // [junegunn-choi](https://github.com/junegunn)
+//
+
 // [karol-belina](https://karolbelina.itch.io/)
 // [katherine](https://katherinestasaph.itch.io/)
 // [kometbomb](https://github.com/kometbomb)
+//
+
 // [laura-hunt](https://laurahunt.itch.io/)
 // [leaf](https://leafo.net/)
 // [leland-foster](https://www.lelandkfoster.com)
@@ -110,6 +135,8 @@
 // [love-hulten](https://www.lovehulten.com/)
 // [low-tech-webring](https://emreed.net/LowTech_Directory.html)
 // [luis-henrique-bizzaro](https://lhbzr.com/)
+//
+
 // [makeworld](https://github.com/makeworld-the-better-one)
 // [martin-kleppe](https://aem1k.com/)
 // [matej-horvat](http://matejhorvat.si/en/index.htm)
@@ -122,6 +149,8 @@
 // [mr-lovenstein](https://www.mrlovenstein.com/)
 // [mr-robot](https://www.whoismrrobot.com/)
 // [muesli](https://github.com/muesli)
+//
+
 // [narwhal](https://narwhal.itch.io/)
 // [nathan-fletcher](https://nfletcher.co.uk/work)
 // [nathan-wentworth](https://nathanwentworth.co/)
@@ -130,6 +159,8 @@
 // [nils-m-holm](https://www.t3x.org/index.html)
 // [nitrome](https://www.nitrome.com/)
 // [no-time-to-play](https://notimetoplay.itch.io)
+//
+
 // [octobanana](https://octobanana.com/#show)
 // [oliver-markus-malloy](https://www.malloy.rocks/)
 // [olivia-jack](https://github.com/ojack)
@@ -140,6 +171,8 @@
 // [orhun](https://github.com/orhun)
 // [oscar-chichoni](https://arthive.com/artists/64510~Oscar_Chichoni/works)
 // [overboy](https://overboy.itch.io/)
+//
+
 // [pacian](https://pacian.itch.io/)
 // [pascal-blanche](https://pascalblanche.artstation.com/)
 // [paul-batchelor](https://pbat.ch/)
@@ -150,6 +183,8 @@
 // [portuguese-geese](https://portuguesegeese.com/)
 // [preservim](https://github.com/preservim)
 // [pyratebeard](https://pyratebeard.net/)
+//
+
 // [rama-works](https://rama.works/)
 // [rekka-bell-github](https://github.com/rekkabell)
 // [restorativland](https://restorativland.org/)
@@ -165,6 +200,8 @@
 // [rusty-lake](http://www.rustylake.com/)
 // [rutledge-wood](https://therutledgewood.com)
 // [rxi](https://rxi.itch.io/)
+//
+
 // [sam-tay](https://github.com/samtay)
 // [sarah-gould](https://zenzoa.com/index.html)
 // [scoopwhoop](https://www.scoopwhoop.com/)
@@ -185,6 +222,8 @@
 // [starbreaker](https://starbreaker.org/)
 // [studio-miniboss](https://www.studiominiboss.com/)
 // [suckless](https://suckless.org/)
+//
+
 // [tak](https://tak.itch.io/)
 // [tania-rascia](https://www.taniarascia.com/)
 // [thomas-park](https://thomaspark.co)
@@ -192,18 +231,30 @@
 // [tommy-bowe](https://www.tommycomedy.com/)
 // [tuckersoft](https://www.tuckersoft.net/ealing20541/)
 // [turkey-mcmac](https://github.com/TurkeyMcMac)
+//
+
 // [usebox](gemini://capsule.usebox.net/games/)
+//
+
 // [v-os](https://v-os.ca/home)
 // [vilmibm](https://tilde.town/~vilmibm/)
+//
+
 // [war-and-peas](https://warandpeas.com/)
 // [watabou](https://github.com/watabou)
 // [watabou-itch](https://watabou.itch.io/)
+//
+
 // [xero](https://github.com/xero)
 // [xero-art](http://0w.nz/)
 // [xkcd-comics](https://xkcd.com/)
 // [xvxx](https://github.com/xvxx)
 // [xxiivv-webring](https://webring.xxiivv.com/#icons)
+//
+
 // [you-dont-need](https://github.com/you-dont-need)
+//
+
 // [zach-caceres](https://zach.dev/)
 // [zeno-rocha](https://zenorocha.com/projects/)
 // [zvava](https://zvava.org/)
