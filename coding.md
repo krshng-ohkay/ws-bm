@@ -1,5 +1,6 @@
 ## coding/computer-science
 
+// [datalog](https://docs.racket-lang.org/datalog/)
 // [elixir-lang](https://elixir-lang.org/)
 // [fennel-lang](https://fennel-lang.org/)
 // [forth-lang](https://www.forth.com/forth/)
