@@ -148,6 +148,7 @@
 // [pingtop](https://github.com/laixintao/pingtop)
 // [pipes](https://github.com/pipeseroni/pipes.sh)
 // [piu-piu-sh](https://github.com/vaniacer/piu-piu-SH)
+// [plus](https://github.com/NalinPlad/plus)
 // [pomodoro-timer](https://github.com/Neeveshs/Pomodoro-Timer)
 // [pomo](https://github.com/sayanarijit/pomo)
 // [pong](https://crates.io/crates/pong-cli)
