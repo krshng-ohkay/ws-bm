@@ -85,22 +85,40 @@
 // [warp-engineer](gemini://warpengineer.space/index.gemini)
 //
 
-//
+--<+>--
 
 // [tildeverse](https://tildeverse.org/)
+//
+
 // [cosmic-voyage](https://cosmic.voyage/)
 // [ctrl-c-club](https://ctrl-c.club/)
+//
+
 // [rw-rs](http://rw.rs/)
+//
+
 // [tilde-cafe](https://tilde.cafe/)
 // [tilde-chat](https://tilde.chat/)
 // [tilde-club](http://tilde.club/)
+//
+
 // [tilde-git](https://tildegit.org/)
+//
+
 // [tilde-institute](https://tilde.institute/)
+//
+
 // [tilde-radio](https://tilderadio.org/)
+//
+
 // [tilde-town](https://tilde.town/)
-// [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
 // [trash-town](https://trash.town/)
 //
+
+// [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
+//
+
+--<+>--
 
 // [bit-reich](gopher://bitreich.org/)
 //
