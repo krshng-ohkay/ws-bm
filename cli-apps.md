@@ -202,6 +202,7 @@
 // [ranger](https://github.com/ranger/ranger)
 // [rekonq](https://github.com/ivan-avalos/rekonq)
 // [repl](https://github.com/repl-cli/REPL)
+// [ribbot](https://github.com/HoangTuan110/ribbot)
 // [rockout](https://www.matthewgraybosch.com/unix/rockout/)
 // [rofigen](https://github.com/losoliveirasilva/rofigen)
 // [rover](https://github.com/lecram/rover)
