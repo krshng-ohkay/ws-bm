@@ -106,6 +106,7 @@
 // [manga-dex](https://mangadex.tv/)
 // [marvel-movies-chronology](https://external-preview.redd.it/G_RZTeuGxigUXszO5Aie1hGIGxXS5cm7oyuVFMghUYw.jpg?auto=webp&s=d9b21762ad5f33b28983f5db8bcdccd6fcf42538)
 // [memory-kit](https://www.magneticmemorymethod.com/thank-you-for-requesting-memory-kit/)
+// [modern-wiki](https://www.modernwiki.app/)
 // [monkey-type](https://monkeytype.com/)
 // [monolesan](https://monolesan.com/)
 // [murder-at-brainteaser-mansion-3](https://www.braingle.com/brainteasers/41875/murder-at-brainteaser-mansion-3.html)
