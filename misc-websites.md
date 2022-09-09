@@ -138,6 +138,7 @@
 // [voxelmade](https://www.voxelmade.com/)
 // [wct](https://www.worldchasetag.com/)
 // [whats-my-browser](https://www.whatsmybrowser.org/)
+// [wikiwand](https://www.wikiwand.com/)
 // [wombo](https://www.wombo.ai/)
 // [yay-text](https://yaytext.com/)
 // [yes-theory](https://yestheory.com/)
