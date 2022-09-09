@@ -1,75 +1,125 @@
 ## smolnet
 
-/// [amfora](https://github.com/makeworld-the-better-one/amfora)
-/// [astro](https://github.com/blmayer/astro)
-/// [astrobotany](gemini://astrobotany.mozz.us/)
-/// [bbbhltz](gemini://gemini.bbbhltz.space/)
-/// [bombadillo](https://bombadillo.colorfield.space/)
-/// [castro](https://sr.ht/~julienxx/Castor/)
-/// [curiouser](http://tilde.town/~curiouser/)
-/// [drskrzyk](gemini://drskrzyk.com/)
-/// [elaho-ios-client](https://github.com/pitr/gemini-ios)
-/// [fahrenheit-outpost](gemini://warmedal.se/~bjorn/fahrenheit-outpost/)
-/// [flounder](gemini://flounder.online)
-/// [gemini-protocol](https://gemini.circumlunar.space/)
-/// [hundredrabbits](gemini://gemini.circumlunar.space/users/hundredrabbits/)
-/// [irc](https://irc.com/)
-/// [irc-help](https://www.irchelp.org/)
-/// [kiedtl](gemini://tilde.team/~kiedtl/)
-/// [khuxkm](gemini://tilde.team/~khuxkm/)
-/// [konpeito-media](gemini://konpeito.media/)
-/// [lagrange](gemini://skyjake.fi/lagrange/)
-/// [leo-orbit](gemini://tilde.team/~khuxkm/leo/)
-/// [makeworld](gemini://makeworld.space/)
-/// [medusae](gemini://medusae.space/)
-/// [midnight-pub](http://gemini//midnight.pub/)
-/// [mozz](gemini://mozz.us)
-/// [mozz-proxy](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
-/// [ncgopher](https://github.com/jansc/ncgopher)
-/// [nightfall-city](gemini://main-street.nightfall.city/)
-/// [nytpu](gemini://nytpu.com/)
-/// [park-city-library](gemini://park-city.club/library/)
-/// [paul-ford-article](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf)
-/// [phetch](https://github.com/xvxx/phetch)
-/// [pollux-casa](gemini://pollux.casa/)
-/// [of-many-trades](gemini://ofmanytrades.com/)
-/// [oh.mg](gemini://om.gay/)
-/// [oppen-digital](gemini://oppen.digital/)
-/// [other-tildes](http://tilde.club/~pfhawkins/othertildes.html)
-/// [rawtext-club](https://rawtext.club/)
-/// [recipes](gemini://rawtext.club/~sloum/cgi/recipes/)
-/// [sdf](https://sdf.org/)
-/// [sector-disk](https://sectordisk.pw/)
-/// [sensor-station](gemini://gemini.sensorstation.co/)
-/// [sloum](gemini://rawtext.club/~sloum/)
-/// [solderpunk](http://gemini//zaibatsu.circumlunar.space/~solderpunk/)
-/// [susa](gemini://gemini.susa.net/)
-/// [treeblue](gemini://review.treeblue.space/)
-/// [typed-hole](gemini://typed-hole.org/)
-/// [warp-engineer](gemini://warpengineer.space/index.gemini)
-///
+// [amfora](https://github.com/makeworld-the-better-one/amfora)
+// [astro](https://github.com/blmayer/astro)
+// [astrobotany](gemini://astrobotany.mozz.us/)
+//
 
-/// [tildeverse](https://tildeverse.org/)
-/// [cosmic-voyage](https://cosmic.voyage/)
-/// [ctrl-c-club](https://ctrl-c.club/)
-/// [rw-rs](http://rw.rs/)
-/// [tilde-cafe](https://tilde.cafe/)
-/// [tilde-chat](https://tilde.chat/)
-/// [tilde-club](http://tilde.club/)
-/// [tilde-git](https://tildegit.org/)
-/// [tilde-institute](https://tilde.institute/)
-/// [tilde-radio](https://tilderadio.org/)
-/// [tilde-town](https://tilde.town/)
-/// [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
-/// [trash-town](https://trash.town/)
-///
+// [bbbhltz](gemini://gemini.bbbhltz.space/)
+// [bombadillo](https://bombadillo.colorfield.space/)
+//
 
-/// [bit-reich](gopher://bitreich.org/)
-/// [colorfield](gopher://Colorfield.space)
-/// [cyber-vanguard](gopher://cyber.dabamos.de)
-/// [floodgap](gopher://gopher.floodgap.com)
-/// [gopherddit](gopher://gopherddit.com)
-/// [if-archive](gopher://gopher.661.org/1/if-archive)
-/// [quux-gopher](gopher://gopher.quux.org:70/1/)
-/// [red-consensus](gopher://consensus.circumlunar.space)
-///
+// [castro](https://sr.ht/~julienxx/Castor/)
+// [curiouser](http://tilde.town/~curiouser/)
+//
+
+// [drskrzyk](gemini://drskrzyk.com/)
+//
+
+// [elaho-ios-client](https://github.com/pitr/gemini-ios)
+//
+
+// [fahrenheit-outpost](gemini://warmedal.se/~bjorn/fahrenheit-outpost/)
+// [flounder](gemini://flounder.online)
+//
+
+// [gemini-protocol](https://gemini.circumlunar.space/)
+//
+
+// [hundredrabbits](gemini://gemini.circumlunar.space/users/hundredrabbits/)
+//
+
+// [irc](https://irc.com/)
+// [irc-help](https://www.irchelp.org/)
+//
+
+// [kiedtl](gemini://tilde.team/~kiedtl/)
+// [khuxkm](gemini://tilde.team/~khuxkm/)
+// [konpeito-media](gemini://konpeito.media/)
+//
+
+// [lagrange](gemini://skyjake.fi/lagrange/)
+// [leo-orbit](gemini://tilde.team/~khuxkm/leo/)
+//
+
+// [makeworld](gemini://makeworld.space/)
+// [medusae](gemini://medusae.space/)
+// [midnight-pub](http://gemini//midnight.pub/)
+// [mozz](gemini://mozz.us)
+// [mozz-proxy](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
+//
+
+// [ncgopher](https://github.com/jansc/ncgopher)
+// [nightfall-city](gemini://main-street.nightfall.city/)
+// [nytpu](gemini://nytpu.com/)
+//
+
+// [of-many-trades](gemini://ofmanytrades.com/)
+// [oh.mg](gemini://om.gay/)
+// [oppen-digital](gemini://oppen.digital/)
+// [other-tildes](http://tilde.club/~pfhawkins/othertildes.html)
+//
+
+// [park-city-library](gemini://park-city.club/library/)
+// [paul-ford-article](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf)
+// [phetch](https://github.com/xvxx/phetch)
+// [pollux-casa](gemini://pollux.casa/)
+//
+
+// [rawtext-club](https://rawtext.club/)
+// [recipes](gemini://rawtext.club/~sloum/cgi/recipes/)
+//
+
+// [sdf](https://sdf.org/)
+// [sector-disk](https://sectordisk.pw/)
+// [sensor-station](gemini://gemini.sensorstation.co/)
+// [sloum](gemini://rawtext.club/~sloum/)
+// [solderpunk](http://gemini//zaibatsu.circumlunar.space/~solderpunk/)
+// [susa](gemini://gemini.susa.net/)
+//
+
+// [treeblue](gemini://review.treeblue.space/)
+// [typed-hole](gemini://typed-hole.org/)
+//
+
+// [warp-engineer](gemini://warpengineer.space/index.gemini)
+//
+
+//
+
+// [tildeverse](https://tildeverse.org/)
+// [cosmic-voyage](https://cosmic.voyage/)
+// [ctrl-c-club](https://ctrl-c.club/)
+// [rw-rs](http://rw.rs/)
+// [tilde-cafe](https://tilde.cafe/)
+// [tilde-chat](https://tilde.chat/)
+// [tilde-club](http://tilde.club/)
+// [tilde-git](https://tildegit.org/)
+// [tilde-institute](https://tilde.institute/)
+// [tilde-radio](https://tilderadio.org/)
+// [tilde-town](https://tilde.town/)
+// [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
+// [trash-town](https://trash.town/)
+//
+
+// [bit-reich](gopher://bitreich.org/)
+//
+
+// [colorfield](gopher://Colorfield.space)
+// [cyber-vanguard](gopher://cyber.dabamos.de)
+//
+
+// [floodgap](gopher://gopher.floodgap.com)
+//
+
+// [gopherddit](gopher://gopherddit.com)
+//
+
+// [if-archive](gopher://gopher.661.org/1/if-archive)
+//
+
+// [quux-gopher](gopher://gopher.quux.org:70/1/)
+//
+
+// [red-consensus](gopher://consensus.circumlunar.space)
+//
