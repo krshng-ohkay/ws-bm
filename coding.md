@@ -85,6 +85,7 @@
 // [caporal](https://github.com/mattallty/Caporal.js)
 // [caz](https://github.com/zce/caz)
 // [chaiscript](https://chaiscript.com/)
+// [cl-cookbook](https://github.com/LispCookbook/cl-cookbook)
 // [cli-rs](https://cli.rs/)
 // [clig](https://clig.dev/)
 // [clisp](https://clisp.sourceforge.io/)
