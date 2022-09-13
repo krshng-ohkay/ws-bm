@@ -99,6 +99,7 @@
 // [codingbat-python-tutorial](https://codingbat.com/python)
 // [cohort](https://groupsforlearning.com)
 // [common-lisp](https://common-lisp.net/)
+// [computer-hope](https://www.computerhope.com/)
 // [computer-interview-university](https://github.com/jwasham/coding-interview-university)
 // [cpp-official-site](https://isocpp.org/)
 // [cpp-project-based-learning](https://github.com/tuvtran/project-based-learning)
