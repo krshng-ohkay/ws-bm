@@ -28,6 +28,7 @@
 
 // [awesome-learning](https://github.com/johnpaulada/awesome-learning-collections)
 // [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
+// [awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages)
 //
 
 // [awesome-os](https://github.com/jubalh/awesome-os)
