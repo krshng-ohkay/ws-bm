@@ -2,6 +2,7 @@
 
 // [a-bunch-of-rocks](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)
 // [abacus-multiplication](https://www.cuemath.com/learn/abacus-multiplication/)
+// [abacus-history](https://www.cuemath.com/learn/abacus-history/)
 // [arxiv](https://arxiv.org/)
 //
 
