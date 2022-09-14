@@ -1,6 +1,7 @@
 ## study
 
 // [a-bunch-of-rocks](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)
+// [abacus-multiplication](https://www.cuemath.com/learn/abacus-multiplication/)
 // [arxiv](https://arxiv.org/)
 //
 
