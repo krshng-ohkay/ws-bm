@@ -1,9 +1,16 @@
 ## cli-apps
 
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
+
+### 0:
 // [2048-cli](https://github.com/tiehuis/2048-cli)
 // [3mux](https://github.com/aaronjanse/3mux)
 //
 
+### A:
 // [alpine](http://alpine.x10host.com/alpine/)
 // [amp](https://github.com/jmacdonald/amp)
 // [angband](https://rephial.org/)
@@ -16,6 +23,7 @@
 // [autojump](https://github.com/wting/autojump)
 //
 
+### B:
 // [barchart](https://github.com/TurkeyMcMac/barchart)
 // [bash-blog](https://github.com/cfenollosa/bashblog)
 // [bash-cafe](https://github.com/lucaswhitaker22/bash_cafe)
@@ -41,6 +49,7 @@
 // [butterfly](https://github.com/paradoxxxzero/butterfly)
 //
 
+### C:
 // [calcurse](https://calcurse.org/)
 // [castero](https://github.com/xgi/castero)
 // [chafa](https://github.com/hpjansson/chafa)
@@ -58,6 +67,7 @@
 // [cpufetch](https://github.com/Dr-Noob/cpufetch)
 //
 
+### D:
 // [dank-domain](https://github.com/theflyingape/dankdomain)
 // [dc](https://en.wikipedia.org/wiki/Dc_(computer_program))
 // [debut](https://github.com/tombasche/debut)
@@ -69,6 +79,7 @@
 // [dwarf-fortress](http://www.bay12games.com/dwarves/)
 //
 
+### E:
 // [eget](https://github.com/zyedidia/eget)
 // [element](https://github.com/gennaro-tedesco/element)
 // [espeak](http://espeak.sourceforge.net/)
@@ -78,6 +89,7 @@
 // [exchange](https://github.com/zyzzyxdonta/exchange)
 //
 
+### F:
 // [fff](https://github.com/dylanaraps/fff)
 // [figlet](https://www.npmjs.com/package/figlet)
 // [fillin](https://github.com/itchyny/fillin)
@@ -91,6 +103,7 @@
 // [fzf](https://github.com/junegunn/fzf/)
 //
 
+### G:
 // [game-of-life-curses](https://github.com/kirpichik/GameOfLife-Curses)
 // [git-split-diffs](https://github.com/banga/git-split-diffs)
 // [glow](https://github.com/charmbracelet/glow)
@@ -102,6 +115,7 @@
 // [gum](https://github.com/charmbracelet/gum)
 //
 
+### H:
 // [hascard](https://github.com/Yvee1/hascard)
 // [helix](https://helix-editor.com/)
 // [hexyl](https://github.com/sharkdp/hexyl)
@@ -112,25 +126,30 @@
 // [hub](https://hub.github.com/)
 //
 
+### I:
 // [imgp](https://github.com/jarun/imgp)
 // [inxi](https://smxi.org/docs/inxi.htm)
 // [irssi](https://irssi.org/download/)
 //
 
+### J:
 // [jo](https://github.com/jpmens/jo)
 // [jrnl](https://jrnl.sh/en/stable/)
 //
 
+### K:
 // [kakoune](http://kakoune.org/)
 // [kmon](https://github.com/orhun/kmon)
 //
 
+### L:
 // [ledger](https://www.ledger-cli.org/)
 // [lls](https://github.com/catatsuy/lls)
 // [lolcat](https://github.com/busyloop/lolcat)
 // [lowcharts](https://github.com/juan-leon/lowcharts/)
 //
 
+### M:
 // [maid](https://github.com/egoist/maid)
 // [mandown](https://github.com/Titor8115/mandown)
 // [mangadesk](https://github.com/darylhjd/mangadesk)
@@ -151,6 +170,7 @@
 // [my-man](https://myman.sourceforge.io/)
 //
 
+### N:
 // [nano-emacs](https://github.com/rougier/nano-emacs)
 // [nativefier](https://github.com/nativefier/nativefier)
 // [nb](https://github.com/xwmx/nb)
@@ -169,11 +189,13 @@
 // [nushell](https://github.com/nushell/nushell)
 //
 
+### O:
 // [oneko](http://www.daidouji.com/oneko/)
 // [ouch](https://github.com/vrmiguel/ouch)
 // [ox](https://github.com/curlpipe/ox)
 //
 
+### P:
 // [pastel](https://github.com/sharkdp/pastel)
 // [patat](https://github.com/jaspervdj/patat)
 // [patool](http://wummel.github.io/patool/)
@@ -194,10 +216,12 @@
 // [pywal](https://github.com/dylanaraps/pywal)
 //
 
+### Q:
 // [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer)
 // [qrc](https://github.com/fumiyas/qrc)
 //
 
+### R:
 // [radio-active](https://github.com/deep5050/radio-active)
 // [ranger](https://github.com/ranger/ranger)
 // [rekonq](https://github.com/ivan-avalos/rekonq)
@@ -212,6 +236,7 @@
 // [rustypaste](https://github.com/orhun/rustypaste)
 //
 
+### S:
 // [sampler](https://github.com/sqshq/sampler)
 // [scrap](https://github.com/thijsvanommen/scrap)
 // [sed-scripts](https://github.com/aureliojargas/sed-scripts)
@@ -235,6 +260,7 @@
 // [sysz](https://github.com/joehillen/sysz)
 //
 
+### T:
 // [taizen](https://github.com/NerdyPepper/taizen)
 // [tart](https://github.com/jtdaugherty/tart)
 // [taskbook](https://github.com/klaussinani/taskbook)
@@ -276,10 +302,12 @@
 // [tzar](https://github.com/DanielVZ96/tzar)
 //
 
+### U:
 // [umoria](https://umoria.org/)
 // [updog](https://github.com/sc0tfree/updog)
 //
 
+### V:
 // [video-to-ascii](https://github.com/joelibaceta/video-to-ascii)
 // [vid-play](https://github.com/lomnom/VidPlay)
 // [viddy](https://github.com/sachaos/viddy)
@@ -288,6 +316,7 @@
 // [void](https://github.com/void-rs/void)
 //
 
+### W:
 // [weasyprint](https://weasyprint.org/)
 // [weechat](https://weechat.org/)
 // [wisdom-tree](https://github.com/HACKER097/wisdom-tree)
@@ -298,16 +327,19 @@
 // [wwy](https://github.com/clieg/wwy)
 //
 
+### X:
 // [xonsh](https://xon.sh/)
 // [xplr](https://github.com/sayanarijit/xplr)
 //
 
+### Y:
 // [yadm](https://github.com/TheLocehiliosan/yadm)
 // [yasr](http://yasr.sourceforge.net/)
 // [you-plot](https://github.com/red-data-tools/YouPlot)
 // [ytfzf](https://github.com/pystardust/ytfzf)
 //
 
+### Z:
 // [zangband](http://www.zangband.org/)
 // [zellij](https://github.com/zellij-org/zellij)
 // [zeno-zsh](https://github.com/yuki-yano/zeno.zsh)

@@ -2,7 +2,7 @@
 
 // [gemini](#gemini) // [tilde](#tildeverse) // [gopher](#gopher) //
 
---<+>--
+---
 
 ### GEMINI:
 
@@ -115,7 +115,7 @@
 // [warp-engineer](gemini://warpengineer.space/index.gemini)
 //
 
---<+>--
+---
 
 ### TILDEVERSE:
 
@@ -158,7 +158,7 @@
 // [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
 //
 
---<+>--
+---
 
 ### GOPHER:
 
