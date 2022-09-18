@@ -1,80 +1,80 @@
 ## [awesome-list](https://github.com/topics/awesome)
 
-// [0](#0) // [a](#a) // [b](#b) // [c](#c) // [d](#d) // [e](#e) // [f](#f) // [g](#g)
-// [h](#h) // [i](#i) // [j](#j) // [k](#k) // [l](#l) // [m](#m) // [n](#n) // [o](#o)
-// [p](#p) // [q](#q) // [r](#r) // [s](#s) // [t](#t) // [u](#u) // [v](#v) // [w](#w)
-// [x](#x) // [y](#y) // [z](#z) //
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
 
 ### 0:
 // [awesome-list](https://github.com/sindresorhus/awesome)
 //
 
-### b:
+### B:
 // [awesome-bash](https://github.com/awesome-lists/awesome-bash)
 //
 
-### c:
+### C:
 // [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 // [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 // [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 //
 
-### e:
+### E:
 // [awesome-ethical-hacking-resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 //
 
-### f:
+### F:
 // [awesome-fantasy-consoles](https://github.com/paladin-t/fantasy)
 //
 
-### g:
+### G:
 // [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 //
 
-### h:
+### H:
 // [awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 //
 
-### i:
+### I:
 // [awesome-ios](https://github.com/vsouza/awesome-ios)
 //
 
-### l:
+### L:
 // [awesome-learning](https://github.com/johnpaulada/awesome-learning-collections)
 // [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
 // [awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages)
 //
 
-### o:
+### O:
 // [awesome-os](https://github.com/jubalh/awesome-os)
 // [awesome-open-source](https://awesomeopensource.com/)
 //
 
-### p:
+### P:
 // [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
 // [awesome-privacy](https://github.com/pluja/awesome-privacy)
 //
 
-### r:
+### R:
 // [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 //
 
-### s:
+### S:
 // [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 // [awesome-shell](https://github.com/alebcay/awesome-shell)
 // [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 //
 
-### t:
+### T:
 // [awesome-tty-games](https://github.com/ligurio/awesome-ttygames)
 // [awesome-tuis](https://github.com/rothgar/awesome-tuis)
 //
 
-### u:
+### U:
 // [awesome-uxn](https://github.com/hundredrabbits/awesome-uxn)
 //
 
-### v:
+### V:
 // [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 // [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
 // 
