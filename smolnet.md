@@ -1,5 +1,11 @@
 ## smolnet
 
+// [gemini](#gemini) // [tilde](#tildeverse) // [gopher](#gopher) //
+
+--<+>--
+
+## GEMINI:
+
 // [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
 // [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
 // [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
@@ -111,6 +117,13 @@
 
 --<+>--
 
+## TILDEVERSE:
+
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
+
 ### 0:
 // [tildeverse](https://tildeverse.org/)
 //
@@ -118,53 +131,67 @@
 ### C:
 // [cosmic-voyage](https://cosmic.voyage/)
 // [ctrl-c-club](https://ctrl-c.club/)
-//
-
-### R:
-// [rw-rs](http://rw.rs/)
-//
-
 // [tilde-cafe](https://tilde.cafe/)
 // [tilde-chat](https://tilde.chat/)
 // [tilde-club](http://tilde.club/)
 //
 
+### G:
 // [tilde-git](https://tildegit.org/)
 //
 
+### I:
 // [tilde-institute](https://tilde.institute/)
 //
 
+### R:
+// [rw-rs](http://rw.rs/)
 // [tilde-radio](https://tilderadio.org/)
 //
 
+### T:
 // [tilde-town](https://tilde.town/)
 // [trash-town](https://trash.town/)
 //
 
+### W:
 // [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
 //
 
 --<+>--
 
+## TILDEVERSE:
+
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
+
+### B:
 // [bit-reich](gopher://bitreich.org/)
 //
 
+### C:
 // [colorfield](gopher://Colorfield.space)
 // [cyber-vanguard](gopher://cyber.dabamos.de)
 //
 
+### F:
 // [floodgap](gopher://gopher.floodgap.com)
 //
 
+### G:
 // [gopherddit](gopher://gopherddit.com)
 //
 
+### F:
 // [if-archive](gopher://gopher.661.org/1/if-archive)
 //
 
+### Q:
 // [quux-gopher](gopher://gopher.quux.org:70/1/)
 //
 
+### R:
 // [red-consensus](gopher://consensus.circumlunar.space)
 //
