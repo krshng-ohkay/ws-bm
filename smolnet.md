@@ -4,7 +4,7 @@
 
 --<+>--
 
-## GEMINI:
+### GEMINI:
 
 // [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
 // [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
@@ -117,18 +117,18 @@
 
 --<+>--
 
-## TILDEVERSE:
+### TILDEVERSE:
 
-// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
-// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
-// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
-// [X](#x) // [Y](#y) // [Z](#z) //
+// [0](#[t]-0) // [A](#[t]-a) // [B](#[t]-b) // [C](#[t]-c) // [D](#[t]-d) // [E](#[t]-e) // [F](#[t]-f) // [G](#[t]-g)
+// [H](#[t]-h) // [I](#[t]-i) // [J](#[t]-j) // [K](#[t]-k) // [L](#[t]-l) // [M](#[t]-m) // [N](#[t]-n) // [O](#[t]-o)
+// [P](#[t]-p) // [Q](#[t]-q) // [R](#[t]-r) // [S](#[t]-s) // [T](#[t]-t) // [U](#[t]-u) // [V](#[t]-v) // [W](#[t]-w)
+// [X](#[t]-x) // [Y](#[t]-y) // [Z](#[t]-z) //
 
-### 0:
+### [T] 0:
 // [tildeverse](https://tildeverse.org/)
 //
 
-### C:
+### [T] C:
 // [cosmic-voyage](https://cosmic.voyage/)
 // [ctrl-c-club](https://ctrl-c.club/)
 // [tilde-cafe](https://tilde.cafe/)
@@ -136,62 +136,62 @@
 // [tilde-club](http://tilde.club/)
 //
 
-### G:
+### [T] G:
 // [tilde-git](https://tildegit.org/)
 //
 
-### I:
+### [T] I:
 // [tilde-institute](https://tilde.institute/)
 //
 
-### R:
+### [T] R:
 // [rw-rs](http://rw.rs/)
 // [tilde-radio](https://tilderadio.org/)
 //
 
-### T:
+### [T] T:
 // [tilde-town](https://tilde.town/)
 // [trash-town](https://trash.town/)
 //
 
-### W:
+### [T] W:
 // [tilde-wiki](https://tilde.wiki/wiki/Main_Page)
 //
 
 --<+>--
 
-## TILDEVERSE:
+### GOPHER:
 
-// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
-// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
-// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
-// [X](#x) // [Y](#y) // [Z](#z) //
+// [0](#[g]-0) // [A](#[g]-a) // [B](#[g]-b) // [C](#[g]-c) // [D](#[g]-d) // [E](#[g]-e) // [F](#[g]-f) // [G](#[g]-g)
+// [H](#[g]-h) // [I](#[g]-i) // [J](#[g]-j) // [K](#[g]-k) // [L](#[g]-l) // [M](#[g]-m) // [N](#[g]-n) // [O](#[g]-o)
+// [P](#[g]-p) // [Q](#[g]-q) // [R](#[g]-r) // [S](#[g]-s) // [T](#[g]-t) // [U](#[g]-u) // [V](#[g]-v) // [W](#[g]-w)
+// [X](#[g]-x) // [Y](#[g]-y) // [Z](#[g]-z) //
 
-### B:
+### [G] B:
 // [bit-reich](gopher://bitreich.org/)
 //
 
-### C:
+### [G] C:
 // [colorfield](gopher://Colorfield.space)
 // [cyber-vanguard](gopher://cyber.dabamos.de)
 //
 
-### F:
+### [G] F:
 // [floodgap](gopher://gopher.floodgap.com)
 //
 
-### G:
+### [G] G:
 // [gopherddit](gopher://gopherddit.com)
 //
 
-### F:
+### [G] F:
 // [if-archive](gopher://gopher.661.org/1/if-archive)
 //
 
-### Q:
+### [G] Q:
 // [quux-gopher](gopher://gopher.quux.org:70/1/)
 //
 
-### R:
+### [G] R:
 // [red-consensus](gopher://consensus.circumlunar.space)
 //
