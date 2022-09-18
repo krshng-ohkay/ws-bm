@@ -1,8 +1,15 @@
 ## portfolio-websites
 
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
+
+### 0:
 // [100-rabbits](https://github.com/hundredrabbits)
 //
 
+### A:
 // [aardman-animations](https://www.aardman.com/)
 // [aaron-janse](https://github.com/aaronjanse)
 // [aaron-steed](http://robotacid.com/)
@@ -17,9 +24,10 @@
 // [andy-makes](https://andymakesgames.tumblr.com/)
 // [ashner-vollmer](https://ashervollmer.tumblr.com/home)
 // [ass-cheek-valley](https://co-mill.tumblr.com/)
+// [audiodude](https://github.com/audiodude)
 //
 
-// [audiodude](https://github.com/audiodude)
+### B:
 // [baca](https://bacaworld.org/)
 // [baucom-robotics](https://www.baucomrobotics.com/)
 // [bearded-devil](http://bearded-devil.com/)
@@ -30,6 +38,7 @@
 // [bruno-simon](https://bruno-simon.com/)
 //
 
+### C:
 // [c9x](https://c9x.me/)
 // [candle](https://candle.itch.io/)
 // [carolina-eyck](https://www.carolinaeyck.com/)
@@ -49,6 +58,7 @@
 // [cosmic-adventure-squad](https://cosmicadventuresquad.itch.io/)
 //
 
+### D:
 // [dan-farrimond](http://danfarrimond.co.uk/)
 // [daniel-linssen](https://managore.itch.io/)
 // [danny-ben](https://github.com/dannyben)
@@ -70,6 +80,7 @@
 // [dylan-araps](https://github.com/dylanaraps/)
 //
 
+### E:
 // [eboy](https://hello.eboy.com/pool/everything/1)
 // [egoist](https://github.com/egoist)
 // [emma-essex](https://www.heckscaper.com/)
@@ -78,6 +89,7 @@
 // [esoteric-codes](https://esoteric.codes/)
 //
 
+### F:
 // [facundo-olano](https://github.com/facundoolano)
 // [forest-ambassador](https://forestambassador.com/)
 // [fred-bednarski](https://vonbednar.itch.io/)
@@ -86,6 +98,7 @@
 // [future-power-staion](https://www.futurepowerstation.com/)
 //
 
+### G:
 // [gabriella-antali](http://www.gabriellaantali.com/)
 // [geek-and-sundry](https://geekandsundry.com)
 // [gothenburg-bit-factory](https://gothenburgbitfactory.org/)
@@ -93,6 +106,7 @@
 // [guide-dog-games](https://guidedoggames.com:7081/)
 //
 
+### H:
 // [hacker097](https://github.com/HACKER097)
 // [hcv](http://www.hcverma.in/)
 // [horsenburger](https://www.horsenburger.com/)
@@ -100,6 +114,7 @@
 // [hugh-rundle](https://www.hughrundle.net/)
 //
 
+### I:
 // [ian-henry](https://ianthehenry.com/)
 // [increpare](https://www.increpare.com/)
 // [inkle-studios](http://anchorhead-game.com/)
@@ -107,6 +122,7 @@
 // [ivan-pasenko](http://www.ivanpanasenko.com)
 //
 
+### J:
 // [jake-parker](https://www.mrjakeparker.com/)
 // [janne-iivonen](http://janneiivonen.net/)
 // [jeff-wu](https://www.wuthejeff.com/)
@@ -122,11 +138,13 @@
 // [junegunn-choi](https://github.com/junegunn)
 //
 
+### K:
 // [karol-belina](https://karolbelina.itch.io/)
 // [katherine](https://katherinestasaph.itch.io/)
 // [kometbomb](https://github.com/kometbomb)
 //
 
+### L:
 // [laura-hunt](https://laurahunt.itch.io/)
 // [leaf](https://leafo.net/)
 // [leland-foster](https://www.lelandkfoster.com)
@@ -137,6 +155,7 @@
 // [luis-henrique-bizzaro](https://lhbzr.com/)
 //
 
+### M:
 // [makeworld](https://github.com/makeworld-the-better-one)
 // [martin-kleppe](https://aem1k.com/)
 // [matej-horvat](http://matejhorvat.si/en/index.htm)
@@ -151,6 +170,7 @@
 // [muesli](https://github.com/muesli)
 //
 
+### N:
 // [narwhal](https://narwhal.itch.io/)
 // [nathan-fletcher](https://nfletcher.co.uk/work)
 // [nathan-wentworth](https://nathanwentworth.co/)
@@ -161,6 +181,7 @@
 // [no-time-to-play](https://notimetoplay.itch.io)
 //
 
+### O:
 // [octobanana](https://octobanana.com/#show)
 // [oliver-markus-malloy](https://www.malloy.rocks/)
 // [olivia-jack](https://github.com/ojack)
@@ -173,6 +194,7 @@
 // [overboy](https://overboy.itch.io/)
 //
 
+### P:
 // [pacian](https://pacian.itch.io/)
 // [pascal-blanche](https://pascalblanche.artstation.com/)
 // [paul-batchelor](https://pbat.ch/)
@@ -185,6 +207,7 @@
 // [pyratebeard](https://pyratebeard.net/)
 //
 
+### R:
 // [rama-works](https://rama.works/)
 // [rekka-bell-github](https://github.com/rekkabell)
 // [restorativland](https://restorativland.org/)
@@ -202,6 +225,7 @@
 // [rxi](https://rxi.itch.io/)
 //
 
+### S:
 // [sam-tay](https://github.com/samtay)
 // [sarah-gould](https://zenzoa.com/index.html)
 // [scoopwhoop](https://www.scoopwhoop.com/)
@@ -224,6 +248,7 @@
 // [suckless](https://suckless.org/)
 //
 
+### T:
 // [tak](https://tak.itch.io/)
 // [tania-rascia](https://www.taniarascia.com/)
 // [thomas-park](https://thomaspark.co)
@@ -233,18 +258,22 @@
 // [turkey-mcmac](https://github.com/TurkeyMcMac)
 //
 
+### U:
 // [usebox](gemini://capsule.usebox.net/games/)
 //
 
+### V:
 // [v-os](https://v-os.ca/home)
 // [vilmibm](https://tilde.town/~vilmibm/)
 //
 
+### W:
 // [war-and-peas](https://warandpeas.com/)
 // [watabou](https://github.com/watabou)
 // [watabou-itch](https://watabou.itch.io/)
 //
 
+### X:
 // [xero](https://github.com/xero)
 // [xero-art](http://0w.nz/)
 // [xkcd-comics](https://xkcd.com/)
@@ -252,9 +281,11 @@
 // [xxiivv-webring](https://webring.xxiivv.com/#icons)
 //
 
+### Y:
 // [you-dont-need](https://github.com/you-dont-need)
 //
 
+### Z:
 // [zach-caceres](https://zach.dev/)
 // [zeno-rocha](https://zenorocha.com/projects/)
 // [zvava](https://zvava.org/)

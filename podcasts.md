@@ -1,11 +1,32 @@
 ## podcasts
 
-/// [hackable](https://hackablepodcast.com/)
-/// [history-of-philosophy](https://historyofphilosophy.net)
-/// [lore](https://www.lorepodcast.com/)
-/// [philosophize-this!](https://philosophizethis.libsyn.com)
-/// [qcode-media](https://www.qcodemedia.com)
-/// [secular-buddhism](https://secularbuddhism.com/)
-/// [titans-of-text](https://www.titansoftext.com/)
-///
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
+
+### H:
+// [hackable](https://hackablepodcast.com/)
+// [history-of-philosophy](https://historyofphilosophy.net)
+//
+
+### L:
+// [lore](https://www.lorepodcast.com/)
+//
+
+### P:
+// [philosophize-this!](https://philosophizethis.libsyn.com)
+//
+
+### Q:
+// [qcode-media](https://www.qcodemedia.com)
+//
+
+### S:
+// [secular-buddhism](https://secularbuddhism.com/)
+//
+
+### T:
+// [titans-of-text](https://www.titansoftext.com/)
+//
 
