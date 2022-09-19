@@ -1,11 +1,5 @@
 ## [vim-plugins](https://github.com/topics/vim)
 
-// [plugins](#plugins) // [colors](#colors) //
-
----
-
-### PLUGINS:
-
 // [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
 // [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
 // [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
@@ -14,9 +8,10 @@
 ### 0:
 // [neovim](https://github.com/topics/neovim)
 //  
-\\ [color-template](https://github.com/lifepillar/vim-colortemplate)
-\\ [256noir](https://github.com/andreasvc/vim-256noir)
-\\
+--<+>--
+// [color-template](https://github.com/lifepillar/vim-colortemplate)
+// [256noir](https://github.com/andreasvc/vim-256noir)
+//
 
 ### A:
 // [airline](https://github.com/vim-airline/vim-airline)
