@@ -1,9 +1,5 @@
 ## fonts
 
-// [websites](#websites) // [fonts](#fonts) //
-
----
-
 ### WEBSITES:
 
 // [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
