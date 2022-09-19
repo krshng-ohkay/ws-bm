@@ -100,40 +100,40 @@
 // [P](#colr-p) // [Q](#colr-q) // [R](#colr-r) // [S](#colr-s) // [T](#colr-t) // [U](#colr-u) // [V](#colr-v) // [W](#colr-w)
 // [X](#colr-x) // [Y](#colr-y) // [Z](#colr-z) //
 
-### [COLR] 0:
+### [colr] 0:
 // [color-template](https://github.com/lifepillar/vim-colortemplate)
 // [256noir](https://github.com/andreasvc/vim-256noir)
 //
 
-### [COLR] G:
+### [colr] G:
 // [gotham](https://github.com/whatyouhide/vim-gotham)
 //
 
-### [COLR] H:
+### [colr] H:
 // [hotline](https://github.com/ronwoch/hotline-vim)
 //
 
-### [COLR] M:
+### [colr] M:
 // [moonfly](https://github.com/bluz71/vim-moonfly-colors)
 //
 
-### [COLR] N:
+### [colr] N:
 // [nightfox](https://github.com/EdenEast/nightfox.nvim)
 //
 
-### [COLR] R:
+### [colr] R:
 // [robpur](https://github.com/skurob/robpur-vim)
 //
 
-### [COLR] S:
+### [colr] S:
 // [sunbather](https://github.com/nikolvs/vim-sunbather)
 //
 
-### [COLR] T:
+### [colr] T:
 // [tokyo](https://github.com/folke/tokyonight.nvim)
 //
 
-### [COLR] V:
+### [colr] V:
 // [vim-colorschemes](https://vimcolorschemes.com/)
 //
 

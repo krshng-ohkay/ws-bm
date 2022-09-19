@@ -11,58 +11,58 @@
 // [P](#lang-p) // [Q](#lang-q) // [R](#lang-r) // [S](#lang-s) // [T](#lang-t) // [U](#lang-u) // [V](#lang-v) // [W](#lang-w)
 // [X](#lang-x) // [Y](#lang-y) // [Z](#lang-z) //
 
-### [LANG] D:
+### [lang] D:
 // [datalog](https://docs.racket-lang.org/datalog/)
 //
 
-### [LANG] E:
+### [lang] E:
 // [elixir-lang](https://elixir-lang.org/)
 //
 
-### [LANG] F:
+### [lang] F:
 // [fennel-lang](https://fennel-lang.org/)
 // [forth-lang](https://www.forth.com/forth/)
 // [fortran-lang](https://fortran-lang.org/)
 //
 
-### [LANG] G:
+### [lang] G:
 // [go-lang](https://golang.org/)
 //
 
-### [LANG] H:
+### [lang] H:
 // [hy-lang](https://docs.hylang.org/en/alpha/)
 //
 
-### [LANG] J:
+### [lang] J:
 // [janet-lang](https://janet-lang.org/)
 //
 
-### [LANG] K:
+### [lang] K:
 // [kotlin-lang](https://kotlinlang.org)
 //
 
-### [LANG] L:
+### [lang] L:
 // [lisp-lang](https://lisp-lang.org/)
 //
 
-### [LANG] P:
+### [lang] P:
 // [percival](https://github.com/ekzhang/percival)
 // [perl-lang](https://www.perl.org/)
 // [php-lang](https://www.php.net/)
 //
 
-### [LANG] R:
+### [lang] R:
 // [red-lang](https://www.red-lang.org/)
 // [retro-forth-lang](http://www.retroforth.org/)
 // [ruby-lang](https://www.ruby-lang.org/en/)
 // [rust-lang](https://www.rust-lang.org/)
 //
 
-### [LANG] S:
+### [lang] S:
 // [scala-lang](https://www.scala-lang.org/)
 //
 
-### [LANG] T:
+### [lang] T:
 // [textile-lang](https://textile-lang.com/)
 // [toml-lang](https://github.com/toml-lang/toml)
 //

@@ -167,31 +167,31 @@
 // [P](#hole-p) // [Q](#hole-q) // [R](#hole-r) // [S](#hole-s) // [T](#hole-t) // [U](#hole-u) // [V](#hole-v) // [W](#hole-w)
 // [X](#hole-x) // [Y](#hole-y) // [Z](#hole-z) //
 
-### [HOLE] B:
+### [hole] B:
 // [bit-reich](gopher://bitreich.org/)
 //
 
-### [HOLE] C:
+### [hole] C:
 // [colorfield](gopher://Colorfield.space)
 // [cyber-vanguard](gopher://cyber.dabamos.de)
 //
 
-### [HOLE] F:
+### [hole] F:
 // [floodgap](gopher://gopher.floodgap.com)
 //
 
-### [HOLE] G:
+### [hole] G:
 // [gopherddit](gopher://gopherddit.com)
 //
 
-### [HOLE] F:
+### [hole] F:
 // [if-archive](gopher://gopher.661.org/1/if-archive)
 //
 
-### [HOLE] Q:
+### [hole] Q:
 // [quux-gopher](gopher://gopher.quux.org:70/1/)
 //
 
-### [HOLE] R:
+### [hole] R:
 // [red-consensus](gopher://consensus.circumlunar.space)
 //

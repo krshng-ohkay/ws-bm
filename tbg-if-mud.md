@@ -142,51 +142,51 @@
 // [P](#mud-p) // [Q](#mud-q) // [R](#mud-r) // [S](#mud-s) // [T](#mud-t) // [U](#mud-u) // [V](#mud-v) // [W](#mud-w)
 // [X](#mud-x) // [Y](#mud-y) // [Z](#mud-z) //
 
-### [MUD] 0:
+### [mud] 0:
 // [8-bit-mush](http://ansiart.com)
 //
 
-### [MUD] A:
+### [mud] A:
 // [aardwolf](http://www.aardwolf.com/)
 // [anatolia-mud](https://github.com/jaromil/anatoliamud)
 // [ats-trek-mush](https://wiki.trekmush.org/index.php/Main_Page)
 // [awake-mud](https://awakemud.com/)
 //
 
-### [MUD] B:
+### [mud] B:
 // [blightmud](https://github.com/Blightmud/Blightmud)
 //
 
-### [MUD] C:
+### [mud] C:
 // [chrysalis](telnet://104.238.182.89:1313)
 // [coffee-mud](https://github.com/bozimmerman/CoffeeMud)
 // [core-mud](http://mudstats.com/World/DEFCONMUD)
 // [cosmic-rage-moo](http://mudstats.com/World/CosmicRage)
 //
 
-### [MUD] D:
+### [mud] D:
 // [diku-mud](https://dikumud.com/)
 //
 
-### [MUD] E:
+### [mud] E:
 // [empire-mud](https://empiremud.net/)
 // [enter-the-mud](https://itch.io/jam/enterthemud2)
 //
 
-### [MUD] F:
+### [mud] F:
 // [fallout-mud](http://mudstats.com/World/Fallout)
 // [federation-2](https://federation2.com/)
 //
 
-### [MUD] I:
+### [mud] I:
 // [if-mud](telnet://ifmud.port4000.com:4000)
 //
 
-### [MUD] L:
+### [mud] L:
 // [legends-of-the-jedi](http://mudstats.com/World/LegendsoftheJedi)
 //
 
-### [MUD] M:
+### [mud] M:
 // [materia-magic](https://www.materiamagica.com)
 // [miriani](https://www.toastsoft.net/)
 // [mud-coders](https://mudcoders.com/)
@@ -196,19 +196,19 @@
 // [mud-stats](http://mudstats.com)
 //
 
-### [MUD] N:
+### [mud] N:
 // [neon-moo](http://mudstats.com/World/NeonMOO)
 // [noir-haven-muck](http://mudstats.com/World/NoirHavenMUCK)
 //
 
-### [MUD] S:
+### [mud] S:
 // [sdf-mud](https://wm.sdf.org/mud/)
 // [shangrila-mux](https://sites.google.com/view/shangrilamux/shangrila)
 // [sindome-mud](https://www.sindome.org)
 // [star-trek-phoenix-rising](http://mudstats.com/World/StarTrekPhoenixRising)
 //
 
-### [MUD] T:
+### [mud] T:
 // [the-interim](http://theinterim.wikidot.com/)
 // [top-mud-sites](http://www.topmudsites.com)
 // [transformers-universe-mux](https://tfumux.fandom.com/wiki/Transformers_Universe_MUX_Wiki)

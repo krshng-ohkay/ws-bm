@@ -45,16 +45,16 @@
 // [P](#font-p) // [Q](#font-q) // [R](#font-r) // [S](#font-s) // [T](#font-t) // [U](#font-u) // [V](#font-v) // [W](#font-w)
 // [X](#font-x) // [Y](#font-y) // [Z](#font-z) //
 
-### [FONT] 0:
+### [font] 0:
 // [8-bit-atari-fonts](https://github.com/cstoquer/EightBit-Atari-Fonts)
 // [8bit-operator](https://www.1001freefonts.com/8-bit-operator.font)
 //
 
-### [FONT] B:
+### [font] B:
 // [borg](https://www.dafont.com/borg.font)
 //
 
-### [FONT] C:
+### [font] C:
 // [calamity](https://textfonts.net/calamity-typeface.html)
 // [cherry](https://github.com/turquoise-hexagon/cherry)
 // [commodore-64](https://www.dafont.com/commodore-64.font)
@@ -63,62 +63,62 @@
 // [cutive-mono](https://fonts.google.com/specimen/Cutive+Mono?preview.text_type=custom)
 //
 
-### [FONT] E:
+### [font] E:
 // [eight-bit-dragon](https://www.fontspace.com/eight-bit-dragon-font-f30428)
 //
 
-### [FONT] F:
+### [font] F:
 // [fira-code](https://github.com/tonsky/FiraCode)
 // [flames](https://www.fontspace.com/flames-font-f25529)
 //
 
-### [FONT] G:
+### [font] G:
 // [galax](https://galax.xyz/)
 // [gv-time](https://www.fontspace.com/gv-time-font-f56368)
 //
 
-### [FONT] I:
+### [font] I:
 // [ibm-plex-mono](https://www.ibm.com/plex/)
 // [isoveka](https://github.com/be5invis/Iosevka?ref=betterwebtype)
 //
 
-### [FONT] J:
+### [font] J:
 // [jetbrains-mono](https://github.com/JetBrains/JetBrainsMono)
 //
 
-### [FONT] K:
+### [font] K:
 // [karmatic-arcade](https://www.dafont.com/karmatic-arcade.font)
 //
 
-### [FONT] M:
+### [font] M:
 // [major-mono-display](https://fonts.google.com/specimen/Major+Mono+Display?query=major&preview.text_type=custom)
 // [mode-seven](https://www.fontspace.com/modeseven-font-f2369)
 // [munro](https://www.urbanfonts.com/fonts/Munro.font)
 //
 
-### [FONT] N:
+### [font] N:
 // [nerd-fonts](https://www.nerdfonts.com/)
 //
 
-### [FONT] O:
+### [font] O:
 // [odudo-mono](https://textfonts.net/odudo-mono-typeface-font.html)
 //
 
-### [FONT] R:
+### [font] R:
 // [retro-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts)
 // [royal-acidbath](https://www.dafont.com/royal-acidbath.font?text=Staying+Alive)
 //
 
-### [FONT] S:
+### [font] S:
 // [scientifica](https://github.com/NerdyPepper/scientifica)
 // [share-tech-mono](https://fonts.google.com/specimen/Share+Tech+Mono?preview.text_type=custom&query=share)
 //
 
-### [FONT] T:
+### [font] T:
 // [terminus](http://terminus-font.sourceforge.net/)
 //
 
-### [FONT] V:
+### [font] V:
 // [vcr-osd-mono](https://www.dafont.com/vcr-osd-mono.font)
 // [vt323](https://fonts.google.com/specimen/VT323?preview.text_type=custom&query=vt)
 //
