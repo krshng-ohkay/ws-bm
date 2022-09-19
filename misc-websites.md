@@ -1,8 +1,15 @@
 ## misc-websites
 
+// [0](#0) // [A](#a) // [B](#b) // [C](#c) // [D](#d) // [E](#e) // [F](#f) // [G](#g)
+// [H](#h) // [I](#i) // [J](#j) // [K](#k) // [L](#l) // [M](#m) // [N](#n) // [O](#o)
+// [P](#p) // [Q](#q) // [R](#r) // [S](#s) // [T](#t) // [U](#u) // [V](#v) // [W](#w)
+// [X](#x) // [Y](#y) // [Z](#z) //
+
+### 0:
 // [247-games](https://www.247games.com/#categories)
 //
 
+### A:
 // [a-tiny-adventure](https://uneminiaventure.fr/en#chap-03)
 // [a-to-z-of-ai](https://atozofai.withgoogle.com/)
 // [academia](https://www.academia.edu/)
@@ -16,6 +23,7 @@
 // [atom-smasher](http://atom.smasher.org/)
 //
 
+### B:
 // [backlog](https://github.com/czytelny/backlog)
 // [bambaiya-slangs](https://www.mumbai77.com/city/2819/travel/slangs/)
 // [bbs-documentary](http://www.bbsdocumentary.com/)
@@ -30,6 +38,7 @@
 // [break-into-chat-bbs](https://breakintochat.com/)
 //
 
+### C:
 // [calligrapher](https://www.calligrapher.ai/)
 // [circle-wood-house](https://www.yankodesign.com/2021/04/09/this-circular-house-is-inspired-by-a-cut-tree-trunk-was-made-to-blend-into-the-surrounding-pine-forest/)
 // [clients-from-hell](https://clientsfromhell.net/)
@@ -41,6 +50,7 @@
 // [cyberpunk-websites](https://www.reddit.com/r/Cyberpunk/comments/5ve3ok/what_are_your_favorite_cyberpunk_websites/)
 //
 
+### D:
 // [d-zone](https://github.com/d-zone-org/d-zone/tree/master)
 // [devrant](https://devrant.com/)
 // [dracula-theme-wallpaper](https://draculatheme.com/wallpaper)
@@ -50,10 +60,12 @@
 // [dynamicland](https://dynamicland.org/)
 //
 
+### E:
 // [espanso](https://espanso.org/)
 // [experiments-with-google](https://experiments.withgoogle.com/)
 //
 
+### F:
 // [fairlight-cmi](https://www.youtube.com/watch?time_continue=125&v=iOlPCpSmhRM&feature=emb_logo)
 // [fanlore](https://fanlore.org/wiki/Main_Page)
 // [fdm](https://www.freedownloadmanager.org/)
@@ -64,6 +76,7 @@
 // [formula-e](https://www.fiaformulae.com/)
 //
 
+### G:
 // [game-of-life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 // [gamebook](https://en.wikipedia.org/wiki/Gamebook)
 // [gitter](https://gitter.im/)
@@ -71,6 +84,7 @@
 // [goto-directory](https://github.com/iridakos/goto)
 //
 
+### H:
 // [hacker-news](https://news.ycombinator.com/)
 // [hardly-everything](https://www.hardlyeverything.com/)
 // [haunted-by-data](https://idlewords.com/talks/haunted_by_data.htm)
@@ -80,6 +94,7 @@
 // [hugo-ssg](https://gohugo.io/)
 //
 
+### I:
 // [ilovepdf](https://www.ilovepdf.com/)
 // [impermanence](https://www.impermanence.us/)
 // [input-magazine](https://www.inputmag.com/)
@@ -89,9 +104,11 @@
 // [ipfs](https://ipfs.io)
 //
 
+### J:
 // [jumpjet](http://www.jumpjet.info)
 //
 
+### K:
 // [kalidoface](https://kalidoface.com)
 // [keybr](https://watchandcode.com/)
 // [kboard](https://github.com/CamiloGarciaLaRotta/kboard)
@@ -99,10 +116,12 @@
 // [kickstarter](https://kickstarter.com)
 //
 
+### L:
 // [litrpg](https://en.wikipedia.org/wiki/LitRPG)
 // [lofi-hip-hop-radio](https://lofiin.com/)
 //
 
+### M:
 // [mame-dev-emulator](https://www.mamedev.org/)
 // [manga-dex](https://mangadex.tv/)
 // [marvel-movies-chronology](https://external-preview.redd.it/G_RZTeuGxigUXszO5Aie1hGIGxXS5cm7oyuVFMghUYw.jpg?auto=webp&s=d9b21762ad5f33b28983f5db8bcdccd6fcf42538)
@@ -116,17 +135,20 @@
 // [mythical-society](https://www.mythicalsociety.com/)
 //
 
+### N:
 // [neon-dystopia](https://www.neondystopia.com)
 // [nightride-fm](https://nightride.fm/about?station=nightride)
 // [nsfw-movies](https://www.scoopwhoop.com/erotic-movies/)
 //
 
+### O:
 // [octolinker](https://github.com/OctoLinker/OctoLinker)
 // [online-converter](https://www.online-convert.com/)
 // [open-broadcaster-software](https://obsproject.com/)
 // [organice](https://github.com/200ok-ch/organice)
 //
 
+### P:
 // [pathephone](https://pathephone.github.io/)
 // [persepolis](https://persepolisdm.github.io/)
 // [pixel-it](https://giventofly.github.io/pixelit/)
@@ -134,11 +156,13 @@
 // [proxy-bay](http://proxybay.github.io/)
 //
 
+### Q:
 // [qt-dialogue-posters](https://www.scoopwhoop.com/entertainment/39-quotes-tarantino-films/)
 // [quadplay](https://github.com/morgan3d/quadplay)
 // [quotes-on-design](https://quotesondesign.com/)
 //
 
+### R:
 // [redbled-nsfw](https://www.redbled.com/)
 // [researcher](https://www.researcher-app.com/)
 // [retro-arch](https://www.retroarch.com)
@@ -150,6 +174,7 @@
 // [rupe-india](https://rupe-india.org/)
 //
 
+### S:
 // [secret-rick-roll](https://www.secretrickroll.com/)
 // [share-x](https://getsharex.com/)
 // [snapdrop](https://snapdrop.net/#)
@@ -164,6 +189,7 @@
 // [superprof](https://www.superprof.co.in/)
 //
 
+### T:
 // [teletext-art-tumblr](https://teletextart.tumblr.com/)
 // [textfiles](http://textfiles.com/)
 // [the-audacity-to-podcast](https://theaudacitytopodcast.com/)
@@ -174,22 +200,26 @@
 // [turn-based-strategy-games-wiki](https://en.m.wikipedia.org/wiki/Turn-based_strategy)
 //
 
+### U:
 // [unicode-table](https://unicode-table.com/en/)
 // [unsolved-mysteries](https://www.rd.com/list/strangest-unsolved-mysteries/)
 // [usb-formatting](https://diarium.usal.es/pmgallardo/2020/05/01/how-to-fix-an-unreadable-usb-flash-drive-on-ubuntu/)
 //
 
+### V:
 // [vim-navigation](https://susamn.medium.com/its-time-to-navigate-effectively-in-vim-a-visual-article-e23afab7f2e)
 // [vintage-js](https://vintagejs.com/)
 // [voxelmade](https://www.voxelmade.com/)
 //
 
+### W:
 // [wct](https://www.worldchasetag.com/)
 // [whats-my-browser](https://www.whatsmybrowser.org/)
 // [wikiwand](https://www.wikiwand.com/)
 // [wombo](https://www.wombo.ai/)
 //
 
+### Y:
 // [yay-text](https://yaytext.com/)
 // [yes-theory](https://yestheory.com/)
 // [yooh-meme-maker](https://yooh.io)
