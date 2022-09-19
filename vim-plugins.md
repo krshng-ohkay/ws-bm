@@ -13,6 +13,8 @@
 
 ### 0:
 // [neovim](https://github.com/topics/neovim)
+// [color-template](https://github.com/lifepillar/vim-colortemplate)
+// [256noir](https://github.com/andreasvc/vim-256noir)
 //
 
 ### A:
@@ -45,6 +47,9 @@
 // [galore](https://github.com/mhinz/vim-galore)
 // [gitgutter](https://github.com/airblade/vim-gitgutter)
 // [goyo](https://github.com/junegunn/goyo.vim)
+//
+---
+// [gotham](https://github.com/whatyouhide/vim-gotham)
 //
 
 ### I:
@@ -91,49 +96,25 @@
 // [you-complete-me](https://github.com/ycm-core/YouCompleteMe)
 //
 
----
 
-### COLORS:
-
-// [0](#colr-0) // [A](#colr-a) // [B](#colr-b) // [C](#colr-c) // [D](#colr-d) // [E](#colr-e) // [F](#colr-f) // [G](#colr-g)
-// [H](#colr-h) // [I](#colr-i) // [J](#colr-j) // [K](#colr-k) // [L](#colr-l) // [M](#colr-m) // [N](#colr-n) // [O](#colr-o)
-// [P](#colr-p) // [Q](#colr-q) // [R](#colr-r) // [S](#colr-s) // [T](#colr-t) // [U](#colr-u) // [V](#colr-v) // [W](#colr-w)
-// [X](#colr-x) // [Y](#colr-y) // [Z](#colr-z) //
-
-### [colr] 0:
-// [color-template](https://github.com/lifepillar/vim-colortemplate)
-// [256noir](https://github.com/andreasvc/vim-256noir)
-//
-
-### [colr] G:
-// [gotham](https://github.com/whatyouhide/vim-gotham)
-//
-
-### [colr] H:
 // [hotline](https://github.com/ronwoch/hotline-vim)
 //
 
-### [colr] M:
 // [moonfly](https://github.com/bluz71/vim-moonfly-colors)
 //
 
-### [colr] N:
 // [nightfox](https://github.com/EdenEast/nightfox.nvim)
 //
 
-### [colr] R:
 // [robpur](https://github.com/skurob/robpur-vim)
 //
 
-### [colr] S:
 // [sunbather](https://github.com/nikolvs/vim-sunbather)
 //
 
-### [colr] T:
 // [tokyo](https://github.com/folke/tokyonight.nvim)
 //
 
-### [colr] V:
 // [vim-colorschemes](https://vimcolorschemes.com/)
 //
 
