@@ -8,7 +8,7 @@
 ### 0:
 // [neovim](https://github.com/topics/neovim)
 //  
---<+>--
+--++--  
 // [color-template](https://github.com/lifepillar/vim-colortemplate)
 // [256noir](https://github.com/andreasvc/vim-256noir)
 //
