@@ -13,6 +13,7 @@
 
 ### 0:
 // [neovim](https://github.com/topics/neovim)
+//  
 // [color-template](https://github.com/lifepillar/vim-colortemplate)
 // [256noir](https://github.com/andreasvc/vim-256noir)
 //
@@ -47,8 +48,7 @@
 // [galore](https://github.com/mhinz/vim-galore)
 // [gitgutter](https://github.com/airblade/vim-gitgutter)
 // [goyo](https://github.com/junegunn/goyo.vim)
-//
----
+//  
 // [gotham](https://github.com/whatyouhide/vim-gotham)
 //
 
