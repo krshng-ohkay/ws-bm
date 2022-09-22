@@ -51,6 +51,7 @@
 ### I:
 // [ibm-100](https://www.ibm.com/ibm/history/ibm100/us/en/)
 // [ibm-029-card-punch](https://twobithistory.org/2018/06/23/ibm-029-card-punch.html)
+// [indian-abacus](https://www.indianabacus.com/)
 //
 
 ### L:
