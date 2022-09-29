@@ -170,6 +170,7 @@
 // [forth-interest-group](http://www.forth.org/)
 // [fortran-wiki](https://fortranwiki.org/fortran/show/HomePage)
 // [fossil-scm](https://www.fossil-scm.org/home/doc/trunk/www/index.wiki)
+// [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 // [freecodecamp](https://www.freecodecamp.org/)
 //
 
