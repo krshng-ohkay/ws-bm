@@ -49,6 +49,7 @@
 //
 
 ### H:
+// [haiku-syllable-counter](https://www.haikusyllablecounter.com/)
 // [hashnode](https://hashnode.com/)
 //
 
