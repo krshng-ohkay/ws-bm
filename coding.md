@@ -107,6 +107,7 @@
 // [blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
 // [bpython-interpreter](https://bpython-interpreter.org/)
 // [brain-bell](https://www.brainbell.com/)
+// [brainfuck-interpreter](https://github.com/fabianishere/brainfuck)
 // [build-and-plan-programming-projects](https://www.reddit.com/r/learnprogramming/comments/mumrgn/how_to_plan_and_build_a_programming_project_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 // [build-your-own-lisp](http://buildyourownlisp.com/)
 // [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
