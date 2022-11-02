@@ -11,6 +11,11 @@
 // [P](#lang-p) // [Q](#lang-q) // [R](#lang-r) // [S](#lang-s) // [T](#lang-t) // [U](#lang-u) // [V](#lang-v) // [W](#lang-w)
 // [X](#lang-x) // [Y](#lang-y) // [Z](#lang-z) //
 
+### [lang] C:
+// [clisp](https://clisp.sourceforge.io/)
+// [clojure](https://clojure.org/)
+//
+
 ### [lang] D:
 // [datalog](https://docs.racket-lang.org/datalog/)
 //
@@ -30,7 +35,7 @@
 //
 
 ### [lang] H:
-// [hy-lang](https://docs.hylang.org/en/alpha/)
+// [hy-lang](https://docs.hylang.org/en/stable/)
 //
 
 ### [lang] J:
@@ -122,8 +127,6 @@
 // [cl-cookbook](https://github.com/LispCookbook/cl-cookbook)
 // [cli-rs](https://cli.rs/)
 // [clig](https://clig.dev/)
-// [clisp](https://clisp.sourceforge.io/)
-// [clojure](https://clojure.org/)
 // [code-golf](https://code.golf/)
 // [code-pad](http://codepad.org/)
 // [code-with-harry](https://www.codewithharry.com/)
