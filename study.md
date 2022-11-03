@@ -33,6 +33,7 @@
 // [edx](https://www.edx.org/)
 // [electronics-tutorials](https://www.electronics-tutorials.ws/)
 // [everything-i-know](https://wiki.nikitavoloboev.xyz/)
+// [exploring-how-computers-work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 //
 
 ### F:
