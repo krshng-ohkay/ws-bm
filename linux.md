@@ -38,7 +38,6 @@
 // [darling](https://darlinghq.org/)
 // [diet-pi](https://dietpi.com/)
 // [disto-test](https://distrotest.net/index.php)
-// [diy-os-tutorial](https://github.com/cfenollosa/os-tutorial)
 // [dunst](https://dunst-project.org/)
 // [dwn](https://dwm.suckless.org/)
 //
@@ -130,6 +129,7 @@
 // [openbox](http://openbox.org/wiki/Main_Page)
 // [operating-system](https://www.operating-system.org/index.html)
 // [os-dev-wiki](https://wiki.osdev.org/Main_Page)
+// [os-tutorial](https://github.com/cfenollosa/os-tutorial)
 //
 
 ### P:
