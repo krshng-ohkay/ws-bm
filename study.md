@@ -33,7 +33,6 @@
 // [edx](https://www.edx.org/)
 // [electronics-tutorials](https://www.electronics-tutorials.ws/)
 // [everything-i-know](https://wiki.nikitavoloboev.xyz/)
-// [exploring-how-computers-work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 //
 
 ### F:
@@ -45,6 +44,7 @@
 //
 
 ### H:
+// [how-computers-work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 // [how-to-learn-math-and-physics](https://math.ucr.edu/home/baez/books.html)
 // [hyperverses](https://hypervers.es/)
 //
@@ -113,6 +113,7 @@
 // [toki-pona-fan-made](http://tokipona.net/tp/default.aspx)
 // [toki-pona-tutorial](https://devurandom.xyz/tokipona/)
 // [touch-typing](https://www.typingstudy.com/)
+// [transistors-to-tetris](https://www.youtube.com/watch?v=6caLyckwo7U)
 // [two-bit-history](https://twobithistory.org/)
 //
 
