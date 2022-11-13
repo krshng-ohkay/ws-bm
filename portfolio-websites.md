@@ -149,6 +149,7 @@
 // [leaf](https://leafo.net/)
 // [leland-foster](https://www.lelandkfoster.com)
 // [lens-makes-art](https://www.lensmakesart.com/)
+// [limor](http://www.ladyada.net/)
 // [linus-akesson](http://www.linusakesson.net/index.php)
 // [love-hulten](https://www.lovehulten.com/)
 // [low-tech-webring](https://emreed.net/LowTech_Directory.html)
