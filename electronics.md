@@ -48,6 +48,7 @@
 
 ### G:
 // [gamebuino](https://gamebuino.com/)
+// [ghdl](https://github.com/ghdl/ghdl)
 //
 
 ### H:
