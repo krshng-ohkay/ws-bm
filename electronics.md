@@ -61,6 +61,8 @@
 
 ### L:
 // [lofi-workstation](http://www.noystoise.com/2009/05/lo-fi-workstation.html)
+// [logisim](http://www.cburch.com/logisim/)
+// [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 //
 
 ### M:
