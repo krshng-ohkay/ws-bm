@@ -219,6 +219,7 @@
 ### Q:
 // [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer)
 // [qrc](https://github.com/fumiyas/qrc)
+// [qrencode](https://fukuchi.org/works/qrencode/)
 //
 
 ### R:
