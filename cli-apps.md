@@ -76,6 +76,7 @@
 // [ditaa](http://ditaa.sourceforge.net/)
 // [ditty](https://code.rocketnine.space/tslocum/ditty)
 // [doitlive](https://github.com/sloria/doitlive)
+// [duf](https://github.com/muesli/duf)
 // [dwarf-fortress](http://www.bay12games.com/dwarves/)
 //
 
