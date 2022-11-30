@@ -138,6 +138,7 @@
 ### J:
 // [jo](https://github.com/jpmens/jo)
 // [jrnl](https://jrnl.sh/en/stable/)
+// [json](https://github.com/ArthurSonzogni/json-tui)
 //
 
 ### K:
