@@ -50,6 +50,7 @@
 
 ### F:
 // [framer-prototype-designer](https://www.framer.com/)
+// [ftxui](https://github.com/ArthurSonzogni/FTXUI)
 //
 
 ### G:
