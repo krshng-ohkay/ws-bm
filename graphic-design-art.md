@@ -49,6 +49,7 @@
 //
 
 ### F:
+// [final-cut](https://github.com/gansm/finalcut)
 // [framer-prototype-designer](https://www.framer.com/)
 // [ftxui](https://github.com/ArthurSonzogni/FTXUI)
 //
