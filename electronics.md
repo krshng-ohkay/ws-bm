@@ -86,6 +86,7 @@
 //
 
 ### S:
+// [simul-ide](https://www.simulide.com/p/home.html)
 // [sprites-mods](https://spritesmods.com/?art=main)
 // [stepper-motor-synth](https://www.hackster.io/JonJonKayne/arduino-midi-stepper-synth-d291ae)
 //
