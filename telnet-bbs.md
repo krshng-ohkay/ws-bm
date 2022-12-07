@@ -27,6 +27,7 @@
 
 ### C:
 // [cuban-bar](telnet://52.88.68.92:1234)
+// [cursedboard](https://github.com/whisperchan/cursedboard)
 //
 
 ### D:
