@@ -252,6 +252,7 @@
 // [snake](https://github.com/samtay/snake)
 // [snowterm](https://github.com/valignatev/python-snowterm)
 // [so](https://github.com/samtay/so)
+// [soft-serve](https://github.com/charmbracelet/soft-serve)
 // [sokoban-go](https://github.com/tristangoossens/sokoban-go)
 // [somafm-cli](https://github.com/rockymadden/somafm-cli)
 // [sox](http://sox.sourceforge.net/)
