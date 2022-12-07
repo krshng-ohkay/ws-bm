@@ -57,6 +57,10 @@
 // [hackerspaces](https://wiki.hackerspaces.org/Hackerspaces)
 //
 
+### I:
+// [ice-studio](https://github.com/FPGAwars/icestudio)
+//
+
 ### K:
 // [k3lso-quadruped](https://hackaday.io/project/176487-k3lso-quadruped)
 //
