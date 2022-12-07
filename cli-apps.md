@@ -314,6 +314,7 @@
 //
 
 ### V:
+// [vhs](https://github.com/charmbracelet/vhs)
 // [video-to-ascii](https://github.com/joelibaceta/video-to-ascii)
 // [vid-play](https://github.com/lomnom/VidPlay)
 // [viddy](https://github.com/sachaos/viddy)
