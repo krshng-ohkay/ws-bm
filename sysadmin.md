@@ -21,6 +21,10 @@
 // [platypus](https://github.com/gmemstr/Platypus)
 //
 
+### R:
+// [raspberru-pi-nextcloud-server](https://www.makeuseof.com/raspberry-pi-nextcloud/)
+//
+
 ### S:
 // [sysadmin-commands](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
 //
