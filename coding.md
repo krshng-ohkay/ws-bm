@@ -43,6 +43,7 @@
 //
 
 ### [lang] K:
+// [kitten-lang](http://kittenlang.org/)
 // [kotlin-lang](https://kotlinlang.org)
 //
 
@@ -138,6 +139,7 @@
 // [common-lisp](https://common-lisp.net/)
 // [computer-hope](https://www.computerhope.com/)
 // [computer-interview-university](https://github.com/jwasham/coding-interview-university)
+// [concatenative](https://concatenative.org/wiki/view/Front%20Page)
 // [cpp-official-site](https://isocpp.org/)
 // [cpp-project-based-learning](https://github.com/tuvtran/project-based-learning)
 // [cs50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
