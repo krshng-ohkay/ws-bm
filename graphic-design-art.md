@@ -58,6 +58,7 @@
 // [geek-tools](https://www.tynsoe.org/geektool/)
 // [goxel](https://goxel.xyz/)
 // [gtk](https://www.gtk.org/)
+// [gum](https://github.com/charmbracelet/gum)
 //
 
 ### H:
