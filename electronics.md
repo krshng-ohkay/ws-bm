@@ -72,6 +72,7 @@
 //
 
 ### M:
+// [magic-1](http://www.homebrewcpu.com/)
 // [makers-asylum](https://www.makersasylum.com/)
 // [micropython](https://micropython.org/)
 //
