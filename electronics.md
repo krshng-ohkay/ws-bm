@@ -89,6 +89,7 @@
 
 ### R:
 // [recalbox](https://www.recalbox.com/)
+// [risc-v](https://riscv.org/)
 //
 
 ### S:
