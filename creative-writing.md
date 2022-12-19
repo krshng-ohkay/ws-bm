@@ -53,6 +53,7 @@
 ### H:
 // [haiku-syllable-counter](https://www.haikusyllablecounter.com/)
 // [hashnode](https://hashnode.com/)
+// [humor-writing](https://www.youtube.com/watch?v=zNTxSBgDNp4)
 //
 
 ### I:
