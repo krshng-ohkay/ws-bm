@@ -84,6 +84,7 @@
 // [macos-8.0-gui](https://guidebookgallery.org/screenshots/macos80)
 // [magicavoxel](https://ephtracy.github.io/#ss-carousel_ss)
 // [make-pixel-art](https://makepixelart.com/)
+// [method-of-action](https://method.ac/)
 // [moji-split](https://github.com/phseiff/MojiSplit)
 //
 
