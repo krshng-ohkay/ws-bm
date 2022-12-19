@@ -95,6 +95,7 @@
 ### P:
 // [pandoc](https://pandoc.org/)
 // [phonetics](https://en.wikipedia.org/wiki/Phonetics)
+// [prank-inventor-snl](https://www.youtube.com/watch?v=TOKAWhFdYNM)
 //
 
 ### R:
