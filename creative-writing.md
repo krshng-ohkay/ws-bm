@@ -53,6 +53,7 @@
 ### H:
 // [haiku-syllable-counter](https://www.haikusyllablecounter.com/)
 // [hashnode](https://hashnode.com/)
+// [hero](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 // [how-to-build-a-fictional-world](https://www.youtube.com/watch?v=ZQTQSbjecLg)
 // [humor-writing](https://www.youtube.com/watch?v=zNTxSBgDNp4)
 //
