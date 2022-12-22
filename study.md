@@ -75,6 +75,7 @@
 // [national-digital-library](https://ndl.iitkgp.ac.in/)
 // [nature-of-code](https://natureofcode.com/)
 // [ness-labs](https://nesslabs.com/)
+// [notion](https://www.notion.so/)
 //
 
 ### O:
