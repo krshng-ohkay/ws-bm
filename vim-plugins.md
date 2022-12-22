@@ -13,6 +13,7 @@
 
 ### 0:
 // [neovim](https://github.com/topics/neovim)
+// [10-best-vs-code-web-dev-extensions](https://blog.bitsrc.io/top-10-visual-studio-code-extensions-for-web-developers-5bd6a76bdf5f)
 //
 
 ### A:
