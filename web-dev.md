@@ -40,6 +40,7 @@
 
 ### E:
 // [egghead-webdev-tutorials](https://egghead.io/)
+// [emmet](https://emmet.io/)
 // [expo-react-native](https://expo.io/)
 //
 
