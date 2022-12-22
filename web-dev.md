@@ -46,6 +46,7 @@
 ### F:
 // [face-api.js](https://github.com/justadudewhohacks/face-api.js/)
 // [feather-icons](https://feathericons.com)
+// [firefox-developer](https://www.mozilla.org/en-US/firefox/developer/)
 // [for-the-badge](https://forthebadge.com/)
 // [free-dns](http://freeddns.noip.com/)
 // [frontedit](https://github.com/maykbrito/fronteditor)
