@@ -41,6 +41,7 @@
 //
 
 ### H:
+// [harmonica](https://www.harmonica.com/)
 // [helm](https://tytel.org/helm/)
 //
 
