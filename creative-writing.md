@@ -9,6 +9,7 @@
 // [abricotine](https://abricotine.brrd.fr/)
 // [after-high-school-snl](https://www.youtube.com/watch?v=ZH0eTRxiXkw)
 // [altverse](https://altverse.miraheze.org/wiki/Main_Page)
+// [apostrophe](https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe)
 // [asciidoc](https://asciidoc.org/)
 // [asciidoctor](https://asciidoctor.org/)
 //
@@ -32,6 +33,7 @@
 
 ### D:
 // [dillinger](https://dillinger.io/)
+// [distraction-free-writing-apps](https://www.makeuseof.com/best-distraction-free-writing-apps-linux/)
 // [donut-media-go-kart](https://www.youtube.com/watch?v=r_TaAsIgSDo)
 //
 
