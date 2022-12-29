@@ -116,6 +116,7 @@
 // [screenplain](http://www.screenplain.com/)
 // [screenplayed-movie-screenplays](https://screenplayed.com/)
 // [screenplay-format](https://www.studiobinder.com/blog/how-to-write-a-screenplay/)
+// [short-story-masterclass](https://www.masterclass.com/articles/how-to-write-a-great-short-story-writing-tips-and-exercises-for-story-ideas)
 // [show-dont-tell](https://blog.reedsy.com/show-dont-tell/)
 // [suspense-writing](https://www.youtube.com/watch?v=xjKruwAfZWk)
 //
