@@ -115,6 +115,7 @@
 // [screenplain](http://www.screenplain.com/)
 // [screenplayed-movie-screenplays](https://screenplayed.com/)
 // [screenplay-format](https://www.studiobinder.com/blog/how-to-write-a-screenplay/)
+// [show-dont-tell](https://blog.reedsy.com/show-dont-tell/)
 // [suspense-writing](https://www.youtube.com/watch?v=xjKruwAfZWk)
 //
 
