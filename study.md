@@ -99,6 +99,7 @@
 //
 
 ### S:
+// [sci-hub](https://sci-hub.se/)
 // [seeker](https://www.seeker.com/)
 // [seximal](https://www.seximal.net/)
 // [shaalaa](https://www.shaalaa.com/)
