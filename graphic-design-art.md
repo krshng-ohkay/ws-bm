@@ -140,6 +140,7 @@
 // [textual](https://github.com/willmcgugan/textual)
 // [themer](https://themer.dev/)
 // [tinker-cad](https://www.tinkercad.com/)
+// [tkinter-gfg](https://www.geeksforgeeks.org/python-gui-tkinter/)
 // [tui-rs](https://github.com/fdehau/tui-rs)
 // [types-of-graphic-design](https://99designs.com/blog/tips/types-of-graphic-design/)
 // [tview](https://github.com/rivo/tview)
