@@ -24,6 +24,7 @@
 //
 
 ### C:
+// [c64-os](https://www.youtube.com/watch?v=b7EQT7qrmqI)
 // [concept-art-world](https://conceptartworld.com/)
 // [css-art](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
 // [curses-python-tui](https://docs.python.org/3/howto/curses.html)
