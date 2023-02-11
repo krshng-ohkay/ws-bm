@@ -34,6 +34,7 @@
 
 ### D:
 // [digital-design-vhdl](https://www.youtube.com/playlist?list=PL7kkolCtIBKLukrBsEDwKRTE64JvaJDhM)
+// [diy-analog-synthesizer](https://www.youtube.com/watch?v=ADZXv5DA7Ek)
 // [diy-game-console](https://www.pocket-lint.com/games/news/nintendo/137374-can-t-buy-a-snes-classic-mini-how-to-build-your-own-retro-console-for-just-50)
 // [diy-handheld-game-console](https://www.instructables.com/DIY-Raspberry-Pi-Zero-Handheld-Game-Console/)
 //
