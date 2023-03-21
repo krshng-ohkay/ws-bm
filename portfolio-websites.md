@@ -256,6 +256,7 @@
 // [thomas-park](https://thomaspark.co)
 // [tom-harte](https://github.com/TomHarte)
 // [tommy-bowe](https://www.tommycomedy.com/)
+// [tony-wang](https://paladin-t.github.io/)
 // [tuckersoft](https://www.tuckersoft.net/ealing20541/)
 // [turkey-mcmac](https://github.com/TurkeyMcMac)
 //
