@@ -29,6 +29,7 @@
 
 ### C:
 // [cellular-automaton](https://pypi.org/project/cellular-automaton/)
+// [cel7](https://rxi.itch.io/cel7)
 // [chipmusic](https://chipmusic.org/)
 // [chiptone](https://sfbgames.itch.io/chiptone)
 // [chiptune-github](https://github.com/topics/chiptune)
