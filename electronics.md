@@ -42,6 +42,7 @@
 ### E:
 // [eeprom-for-logic-circuits](https://maker.pro/custom/tutorial/how-to-use-eeproms-to-represent-logic-functions-in-circuits)
 // [electronic-tools](https://www.circuitbasics.com/electronic-tools-and-equipment/)
+// [embedded-systems-roadmap](https://www.leitner-fischer.com/2022/03/28/embedded-software-engineer-roadmap/)
 // [espboy](https://www.espboy.com/)
 //
 
