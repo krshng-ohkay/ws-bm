@@ -86,6 +86,7 @@
 // [magicavoxel](https://ephtracy.github.io/#ss-carousel_ss)
 // [make-pixel-art](https://makepixelart.com/)
 // [method-of-action](https://method.ac/)
+// [modern-ui-in-python](https://www.youtube.com/watch?v=mop6g-c5HEY)
 // [moji-split](https://github.com/phseiff/MojiSplit)
 //
 
