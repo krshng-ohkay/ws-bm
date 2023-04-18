@@ -87,6 +87,7 @@
 // [mathjax](https://www.mathjax.org/)
 // [md2html](https://github.com/cnam/md2html)
 // [mdbook](https://github.com/rust-lang/mdBook)
+// [mermaid-filter-pandoc](https://github.com/raghur/mermaid-filter)
 // [most-dangerous-writing-app](https://www.squibler.io/dangerous-writing-prompt-app)
 //
 
