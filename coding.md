@@ -194,6 +194,7 @@
 // [hack-club](https://hackclub.com/)
 // [hackernoon](https://hackernoon.com/)
 // [hacktober-fest](https://hacktoberfest.digitalocean.com/)
+// [handmade](https://handmade.network/)
 // [handout](https://github.com/danijar/handout)
 // [hatch](https://github.com/ofek/hatch)
 // [hexdump](https://www.suse.com/c/making-sense-hexdump/)
