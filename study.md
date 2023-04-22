@@ -61,6 +61,7 @@
 // [learn-o-hub](https://examfear.com/)
 // [leon](https://getleon.ai/)
 // [libre-texts](https://libretexts.org/)
+// [logseq](https://logseq.com/)
 // [lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
 //
 
