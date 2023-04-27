@@ -129,6 +129,7 @@
 
 ### Q:
 // [q1k3](https://js13kgames.com/entries/q1k3)
+// [qubit-game-google](https://quantumai.google/education/thequbitgame)
 //
 
 ### R:
