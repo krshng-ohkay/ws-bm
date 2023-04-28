@@ -76,6 +76,7 @@
 // [national-digital-library](https://ndl.iitkgp.ac.in/)
 // [nature-of-code](https://natureofcode.com/)
 // [ness-labs](https://nesslabs.com/)
+// [neural-network-playground](playground.tensorflow.org/)
 // [notion](https://www.notion.so/)
 //
 
