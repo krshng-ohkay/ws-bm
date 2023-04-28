@@ -14,6 +14,7 @@
 
 ### A:
 // [adafruit](https://www.adafruit.com/)
+// [analog-museum](https://www.analogmuseum.org/english/)
 // [arduboy](https://arduboy.com/)
 // [ashet-home-computer](https://ashet.computer/index.htm)
 // [atari-punk](https://www.instructables.com/Atari-Punk-Console-Synthesizer/)
