@@ -108,6 +108,7 @@
 // [sioyek](https://github.com/ahrm/sioyek/)
 // [smos](https://github.com/NorfairKing/smos)
 // [snewd](https://snewd.com/)
+// [sprin-d](https://www.sprind.org/en/)
 // [study-tonight](https://www.studytonight.com/)
 //
 
