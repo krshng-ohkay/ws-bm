@@ -85,6 +85,7 @@
 //
 
 ### O:
+// [opamp-multivibrator](https://www.electronics-tutorials.ws/opamp/op-amp-multivibrator.html)
 // [otto-diy](https://www.ottodiy.com/)
 //
 
