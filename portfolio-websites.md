@@ -158,6 +158,7 @@
 
 ### M:
 // [makeworld](https://github.com/makeworld-the-better-one)
+// [marcin-juszkiewicz](https://marcin.juszkiewicz.com.pl/)
 // [martin-kleppe](https://aem1k.com/)
 // [matej-horvat](http://matejhorvat.si/en/index.htm)
 // [matthew-graybosch](https://www.matthewgraybosch.com/)
