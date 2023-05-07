@@ -114,6 +114,7 @@
 // [kboard](https://github.com/CamiloGarciaLaRotta/kboard)
 // [kensa-pen](https://www.kickstarter.com/projects/cowellstudio/kensa-a-slim-minimal-hexagonal-pen-and-mechanical)
 // [kickstarter](https://kickstarter.com)
+// [king-of-sweden-colbert-show](https://www.youtube.com/watch?v=G4ZMxNYjuJI&pp=ygUWZnV0dXJlIGlzbGFuZHMgY29sYmVydA%3D%3D)
 //
 
 ### L:
