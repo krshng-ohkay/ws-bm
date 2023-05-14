@@ -27,6 +27,7 @@
 // [battle-for-wesnoth](http://wesnoth.org)
 // [bearcat](https://www.wuthejeff.com/bearcat-game/)
 // [binary-puzzle](https://www.binarypuzzle.com/)
+// [boohu](https://github.com/anaseto/boohu)
 // [broforce](https://www.broforcegame.com/)
 // [bytepath](https://github.com/a327ex/BYTEPATH)
 //
