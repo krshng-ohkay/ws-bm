@@ -32,6 +32,7 @@
 //
 
 ### D:
+// [d2-lang](https://github.com/terrastruct/d2)
 // [dillinger](https://dillinger.io/)
 // [distraction-free-writing-apps](https://www.makeuseof.com/best-distraction-free-writing-apps-linux/)
 // [donut-media-go-kart](https://www.youtube.com/watch?v=r_TaAsIgSDo)
