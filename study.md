@@ -55,6 +55,10 @@
 // [indian-abacus](https://www.indianabacus.com/)
 //
 
+### K:
+// [kanri](https://github.com/trobonox/kanri)
+//
+
 ### L:
 // [lambda-calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 // [learn-anything](https://learn-anything.xyz/)
