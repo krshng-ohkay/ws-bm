@@ -142,6 +142,7 @@
 //
 
 ### K:
+// [kabmat](https://github.com/PlankCipher/kabmat)
 // [kakoune](http://kakoune.org/)
 // [kmon](https://github.com/orhun/kmon)
 //
