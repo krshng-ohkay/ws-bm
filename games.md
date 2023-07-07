@@ -72,6 +72,7 @@
 ### H:
 // [hardcoded](https://yoplatz.itch.io/hardcodeddemo)
 // [heat-signature](https://www.heatsig.com/)
+// [hello-rogue](https://onebitpunch.itch.io/hello-rogue)
 // [hexapawn](https://www.instructables.com/Matchbox-Mini-Chess-Learning-Machine/)
 // [hikikomori](http://dsg.neko-machi.com/hikikomori.pdf)
 // [hotline-miami](https://hotlinemiami.com/)
