@@ -63,6 +63,7 @@
 ### H:
 // [honeycomb-hex-grid](https://github.com/flauwekeul/honeycomb)
 // [host-multiple-websites-on-github-pages](https://code.likeagirl.io/how-to-host-multiple-websites-on-github-b5ed19a86dbe)
+// [hotglue](https://hotglue.me/)
 // [html-templates](https://jolly-kalam-23776e.netlify.app/)
 //
 
