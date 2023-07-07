@@ -58,6 +58,7 @@
 // [haiku-syllable-counter](https://www.haikusyllablecounter.com/)
 // [hashnode](https://hashnode.com/)
 // [hero](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
+// [hexspeak](https://en.wikipedia.org/wiki/Hexspeak?useskin=vector)
 // [how-to-build-a-fictional-world](https://www.youtube.com/watch?v=ZQTQSbjecLg)
 // [humor-writing](https://www.youtube.com/watch?v=zNTxSBgDNp4)
 //
@@ -72,6 +73,7 @@
 //
 
 ### L:
+// [l33t](https://en.wikipedia.org/wiki/Leet?useskin=vector)
 // [latex](https://www.latex-project.org/)
 // [left-writing-tool](https://github.com/hundredrabbits/Left)
 // [letting-bygones-be-bygones](https://writerduet.com/script/#EVC4U~***~branch=-)
