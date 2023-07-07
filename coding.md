@@ -241,6 +241,7 @@
 // [machine-learning-beginner-projects](https://www.upgrad.com/blog/machine-learning-project-ideas-for-beginners/)
 // [machine-learning-google](https://developers.google.com/machine-learning/crash-course)
 // [make](https://www.gnu.org/software/make/manual/)
+// [magic-debug-values](https://en.wikipedia.org/w/index.php?title=Magic_number_(programming)&useskin=vector#Magic_debug_values)
 // [masscode](https://masscode.io/)
 // [miniscript](https://miniscript.org/)
 // [moonscript](https://moonscript.org/)
