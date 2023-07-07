@@ -53,6 +53,10 @@
 // [dragon-races](https://joestrout.itch.io/dragonraces)
 // [dreams-of-desire](https://lewdlab.itch.io/dreamsofdesire)
 // [ducksoup-dungeon](https://rilem.itch.io/ducksoup-dungeon)
+// [durf](https://emielboven.itch.io/durf)
+//
+
+### E
 // [elite-dangerous](https://www.elitedangerous.com/)
 // [erica-game](https://www.flavourworks.co)
 // [eve-online](https://www.eveonline.com/)
@@ -115,6 +119,7 @@
 //
 
 ### O:
+// [offworlders](https://chrispwolf.itch.io/offworlders)
 // [old-tower](http://www.retrosouls.net/zx/ot.zip)
 //
 
@@ -183,6 +188,7 @@
 //
 
 ### V:
+// [vault-of-vaarn](https://graculusdroog.itch.io/vaults-of-vaarn)
 // [vim-adventures](https://vim-adventures.com/)
 // [vim-snake](https://github.com/patmood/vim_snake/)
 //
