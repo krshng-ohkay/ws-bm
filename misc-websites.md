@@ -196,10 +196,10 @@
 // [the-audacity-to-podcast](https://theaudacitytopodcast.com/)
 // [the-hacker-crackdown](https://www.mit.edu/hacker/hacker.html)
 // [thingiverse](https://www.thingiverse.com/)
+// [tinytools](https://tinytools.directory/)
 // [tiny-wow](https://tinywow.com/)
 // [todometer](https://github.com/cassidoo/todometer)
 // [tridactyl-firefox](https://github.com/tridactyl/tridactyl)
-// [turn-based-strategy-games-wiki](https://en.m.wikipedia.org/wiki/Turn-based_strategy)
 //
 
 ### U:

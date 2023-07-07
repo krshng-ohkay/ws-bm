@@ -173,6 +173,7 @@
 // [the-temple-of-torment](http://www.thetempleoftorment.net/)
 // [the-vacation-of-lifetimes](https://dannyschneider.itch.io/the-vacation-of-lifetimes)
 // [ts3d](https://github.com/TurkeyMcMac/ts3d)
+// [turn-based-strategy-games-wiki](https://en.m.wikipedia.org/wiki/Turn-based_strategy)
 // [turtles](https://knosmos.github.io/turtles/)
 //
 
