@@ -30,5 +30,5 @@
 28. [website-examples](./website-examples.md)
 29. [app-examples](./app-examples.md)
 30. [recipes](./recipes.md)
+30. [zines](./zines.md)
 31. [misc-websites](./misc-websites.md)
-

@@ -30,4 +30,6 @@
   - [web-dev](./web-dev.md)
   - [website-examples](./website-examples.md)
   - [app-examples](./app-examples.md)
+  - [recipes](./recipes.md)
+  - [zines](./zines.md)
   - [misc-websites](./misc-websites.md)
