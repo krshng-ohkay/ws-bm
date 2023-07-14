@@ -84,6 +84,7 @@
 // [eboy](https://hello.eboy.com/pool/everything/1)
 // [egoist](https://github.com/egoist)
 // [emma-essex](https://www.heckscaper.com/)
+// [emile](https://emile.space/)
 // [eric-wastl](http://was.tl)
 // [erika-moreira](https://erikamoreira.co/)
 // [esoteric-codes](https://esoteric.codes/)
