@@ -68,6 +68,7 @@
 //
 
 ### I:
+// [icons8](https://icons8.com/)
 // [inkscape](https://inkscape.org/)
 // [inktober](https://inktober.com/)
 //
