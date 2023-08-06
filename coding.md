@@ -287,6 +287,7 @@
 // [repl-node-demo](https://nodejs.org/en/knowledge/REPL/how-to-create-a-custom-repl/)
 // [repl-py-demo](https://github.com/centralityai/repl-demo)
 // [retro](https://github.com/raphamorim/retro)
+// [roadmaps](https://roadmap.sh/)
 // [rustviz](https://github.com/rustviz/rustviz)
 // [ryans-tutorials](https://ryanstutorials.net/)
 //
