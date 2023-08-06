@@ -26,6 +26,7 @@
 ### F:
 // [font-forge](https://fontforge.org/en-US/)
 // [font-space](https://www.fontspace.com)
+// [freefaces](https://www.freefaces.gallery/)
 //
 
 ### G:
