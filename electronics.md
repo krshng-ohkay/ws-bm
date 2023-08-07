@@ -16,6 +16,7 @@
 // [adafruit](https://www.adafruit.com/)
 // [analog-museum](https://www.analogmuseum.org/english/)
 // [arduboy](https://arduboy.com/)
+// [arduino-tutorials-paul-mcwhorter](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 // [ashet-home-computer](https://ashet.computer/index.htm)
 // [atari-punk](https://www.instructables.com/Atari-Punk-Console-Synthesizer/)
 //
@@ -34,6 +35,7 @@
 //
 
 ### D:
+// [deep-blue-mbedded](https://deepbluembedded.com/)
 // [digital-design-vhdl](https://www.youtube.com/playlist?list=PL7kkolCtIBKLukrBsEDwKRTE64JvaJDhM)
 // [diy-analog-synthesizer](https://www.youtube.com/watch?v=ADZXv5DA7Ek)
 // [diy-game-console](https://www.pocket-lint.com/games/news/nintendo/137374-can-t-buy-a-snes-classic-mini-how-to-build-your-own-retro-console-for-just-50)
