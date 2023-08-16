@@ -237,6 +237,7 @@
 // [sdushantha](https://github.com/sdushantha)
 // [sean-barrett](http://nothings.org)
 // [selmiak](http://selmiak.bplaced.net/index.php?lang=eng)
+// [shawn-hymel](https://shawnhymel.com/)
 // [shiru](http://shiru.untergrund.net/)
 // [shougo](https://github.com/Shougo)
 // [simon-michael](https://joyful.com/)
