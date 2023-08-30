@@ -28,6 +28,7 @@
 ### C:
 // [cb2](http://cb2.qrp.gr)
 // [chip-8](https://chip-8.com/)
+// [chip-verify](https://www.chipverify.com/)
 // [circuit-bending](http://www.anti-theory.com/soundart/circuitbend/)
 // [circuit-benders-uk](https://www.circuitbenders.co.uk/)
 // [color-maximite-2](https://geoffg.net/maximite.html)
