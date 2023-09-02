@@ -60,6 +60,7 @@
 ### G:
 // [gamebuino](https://gamebuino.com/)
 // [ghdl](https://github.com/ghdl/ghdl)
+// [gtkwave](https://gtkwave.sourceforge.net/)
 //
 
 ### H:
@@ -67,6 +68,7 @@
 //
 
 ### I:
+// [icarus-verilog](https://github.com/steveicarus/iverilog)
 // [ice-studio](https://github.com/FPGAwars/icestudio)
 //
 
