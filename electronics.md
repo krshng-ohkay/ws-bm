@@ -54,6 +54,7 @@
 ### F:
 // [forth-the-hackers-language](https://hackaday.com/2017/01/27/forth-the-hackers-language/)
 // [fpga-tutorial](https://fpgatutorial.com/)
+// [fpga-wars](http://fpgawars.github.io/)
 // [function-generator-using-opamp](http://www.learningaboutelectronics.com/Articles/Function-generator-circuit.php)
 //
 
