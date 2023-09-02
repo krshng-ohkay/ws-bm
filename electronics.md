@@ -31,6 +31,7 @@
 // [chip-verify](https://www.chipverify.com/)
 // [circuit-bending](http://www.anti-theory.com/soundart/circuitbend/)
 // [circuit-benders-uk](https://www.circuitbenders.co.uk/)
+// [cmos-edu](https://cmosedu.com/)
 // [color-maximite-2](https://geoffg.net/maximite.html)
 // [commander-x16](https://www.commanderx16.com/forum/index.php?/home/)
 //
