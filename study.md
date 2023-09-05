@@ -45,6 +45,7 @@
 
 ### H:
 // [how-computers-work](https://www.youtube.com/watch?v=QZwneRb-zqA)
+// [how-to-get-out-of-tutorial-hell](https://www.youtube.com/watch?v=343EWZS9O88)
 // [how-to-learn-math-and-physics](https://math.ucr.edu/home/baez/books.html)
 // [hyperverses](https://hypervers.es/)
 //
