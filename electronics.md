@@ -97,6 +97,7 @@
 //
 
 ### P:
+// [playdate](https://play.date/)
 // [pokitto](https://www.pokitto.com/)
 // [python-robotics](https://github.com/AtsushiSakai/PythonRobotics)
 //
