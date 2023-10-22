@@ -6,6 +6,7 @@
 // [X](#x) // [Y](#y) // [Z](#z) //
 
 ### 0:
+// [100-days-of-RTL](https://github.com/maazm007/100Daysof_RTL/)
 // [3d-printing-basics](https://www.instructables.com/3D-Printing-Basics/)
 // [8051-interfacing](https://embetronicx.com/tag/8051/)
 // [8-bit-computer](https://eater.net/8bit/)
