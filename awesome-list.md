@@ -20,6 +20,7 @@
 //
 
 ### E:
+// [awesome-embedded](https://github.com/nhivp/Awesome-Embedded)
 // [awesome-ethical-hacking-resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 //
 

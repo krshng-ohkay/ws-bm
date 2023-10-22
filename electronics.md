@@ -22,6 +22,7 @@
 // [arduino-tutorials-paul-mcwhorter](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 // [ashet-home-computer](https://ashet.computer/index.htm)
 // [atari-punk](https://www.instructables.com/Atari-Punk-Console-Synthesizer/)
+// [awesome-embedded](https://github.com/nhivp/Awesome-Embedded)
 //
 
 ### B:
@@ -51,6 +52,7 @@
 // [eeprom-for-logic-circuits](https://maker.pro/custom/tutorial/how-to-use-eeproms-to-represent-logic-functions-in-circuits)
 // [electronic-tools](https://www.circuitbasics.com/electronic-tools-and-equipment/)
 // [embedded-systems-roadmap](https://www.leitner-fischer.com/2022/03/28/embedded-software-engineer-roadmap/)
+// [embedded-engineering-roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 // [espboy](https://www.espboy.com/)
 //
 
