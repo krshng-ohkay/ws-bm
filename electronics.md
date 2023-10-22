@@ -16,6 +16,7 @@
 // [adafruit](https://www.adafruit.com/)
 // [analog-museum](https://www.analogmuseum.org/english/)
 // [arduboy](https://arduboy.com/)
+// [arduino-interfacing](https://lastminuteengineers.com/electronics/arduino-projects/)
 // [arduino-tutorials-paul-mcwhorter](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 // [ashet-home-computer](https://ashet.computer/index.htm)
 // [atari-punk](https://www.instructables.com/Atari-Punk-Console-Synthesizer/)
