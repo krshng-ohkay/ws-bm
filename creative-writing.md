@@ -57,6 +57,7 @@
 ### H:
 // [haiku-syllable-counter](https://www.haikusyllablecounter.com/)
 // [hashnode](https://hashnode.com/)
+// [helping-writers-become-authors](https://www.helpingwritersbecomeauthors.com/)
 // [hemingway-editor](https://hemingwayapp.com/)
 // [hero](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 // [hexspeak](https://en.wikipedia.org/wiki/Hexspeak?useskin=vector)
