@@ -43,7 +43,7 @@
 //
 
 ### H:
-// [hack-in-the-box](https://www.hackthebox.eu)
+// [hack-the-box](https://www.hackthebox.com)
 // [hacker-culture](https://medium.com/@ememorato/the-ten-commandments-of-hacker-culture-4e183d570eb6)
 // [hacker101](https://www.hacker101.com/resources#3)
 // [hackerrank](https://www.hackerrank.com/dashboard)
