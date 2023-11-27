@@ -22,6 +22,7 @@
 // [ctf-101](https://ctf101.org)
 // [ctf-guide](https://trailofbits.github.io/ctf/)
 // [ctf-guide-clag](https://code.likeagirl.io/ctf-beginner-guide-by-a-beginner-3c86e4959fcc)
+// [ctf-playbook](https://fareedfauzi.gitbook.io/ctf-playbook/)
 // [ctf-practice](https://zaratec.github.io/ctf-practice/)
 // [ctf-ref-list](https://github.com/s1gh/ctf-literature)
 // [cutter-re](https://cutter.re)
