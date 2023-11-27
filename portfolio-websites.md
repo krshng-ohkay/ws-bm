@@ -102,6 +102,7 @@
 ### G:
 // [gabriella-antali](http://www.gabriellaantali.com/)
 // [geek-and-sundry](https://geekandsundry.com)
+// [goodgis](https://goodgis.itch.io/)
 // [gothenburg-bit-factory](https://gothenburgbitfactory.org/)
 // [goto-80](https://www.goto80.com/)
 // [guide-dog-games](https://guidedoggames.com:7081/)
