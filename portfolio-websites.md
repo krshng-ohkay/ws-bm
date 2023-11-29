@@ -34,6 +34,7 @@
 // [ben-allen](https://benal.itch.io/)
 // [benjamin-porter](https://bp.io/)
 // [bizarro](https://www.bizarro.com/)
+// [brian-hall](https://beej.us/)
 // [brian-lunduke](http://lunduke.com/)
 // [bruno-simon](https://bruno-simon.com/)
 //
