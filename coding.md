@@ -156,6 +156,7 @@
 // [dev-hints](https://devhints.io)
 // [developers-toolbox](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)
 // [discord-bots](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
+// [dive-into-systems](https://diveintosystems.org/)
 // [diy-programming-language](https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/)
 // [diy-programming-language-II](https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-1-54a2)
 // [docopt](http://docopt.org/)
