@@ -71,6 +71,7 @@
 
 ### H:
 // [hackerspaces](https://wiki.hackerspaces.org/Hackerspaces)
+// [homebrew-cpu-webring](https://www.homebrewcpuring.org/)
 // [how-does-a-cpu-work-and-how-to-create-your-own-processor](https://www.youtube.com/watch?v=EeHK3Jbgv2s&t=2s)
 //
 
