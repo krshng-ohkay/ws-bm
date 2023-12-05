@@ -134,6 +134,10 @@
 // [xling](https://github.com/mcusim/Xling)
 //
 
+### Y:
+// [yosys](https://github.com/YosysHQ/yosys)
+//
+
 ### Z:
 // [zx-uno](https://zxuno.speccy.org/index_e.shtml)
 //
