@@ -110,6 +110,7 @@
 //
 
 ### P:
+// [pineapple-one](https://hackaday.io/project/178826-pineapple-one)
 // [playdate](https://play.date/)
 // [pokitto](https://www.pokitto.com/)
 // [python-robotics](https://github.com/AtsushiSakai/PythonRobotics)
