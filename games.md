@@ -53,6 +53,7 @@
 // [dragon-races](https://joestrout.itch.io/dragonraces)
 // [dreams-of-desire](https://lewdlab.itch.io/dreamsofdesire)
 // [ducksoup-dungeon](https://rilem.itch.io/ducksoup-dungeon)
+// [dune-legacy](https://dunelegacy.sourceforge.net/website/index.html)
 // [durf](https://emielboven.itch.io/durf)
 //
 
@@ -121,6 +122,7 @@
 ### O:
 // [offworlders](https://chrispwolf.itch.io/offworlders)
 // [old-tower](http://www.retrosouls.net/zx/ot.zip)
+// [openhv](https://www.openhv.net/)
 //
 
 ### P:
@@ -205,6 +207,7 @@
 //
 
 ### Z:
+// [zero-k](http://zero-k.info/)
 // [zorbus](http://www.zorbus.net/)
 //
 
