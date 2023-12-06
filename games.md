@@ -195,6 +195,7 @@
 
 ### W:
 // [warlords-of-aternum](https://warlordsofaternum.com/)
+// [warzone-2100](https://wz2100.net/)
 // [worm-dungeon](https://managore.itch.io/worm-dungeon)
 // [wyvern](https://www.ghosttrack.com/)
 //
