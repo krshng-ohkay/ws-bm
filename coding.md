@@ -137,6 +137,7 @@
 // [codingbat-python-tutorial](https://codingbat.com/python)
 // [cohort](https://groupsforlearning.com)
 // [common-lisp](https://common-lisp.net/)
+// [computer-architecture-e25](https://web.archive.org/web/20150922114321/http://www.sccs.swarthmore.edu/users/06/adem/engin/e25/index.php)
 // [computer-hope](https://www.computerhope.com/)
 // [computer-interview-university](https://github.com/jwasham/coding-interview-university)
 // [concatenative](https://concatenative.org/wiki/view/Front%20Page)
