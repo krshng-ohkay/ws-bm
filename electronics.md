@@ -102,6 +102,7 @@
 ### N:
 // [nandland](https://nandland.com/)
 // [nandgame](https://nandgame.com/)
+// [nodemcu](https://nodemcu.readthedocs.io/en/release/)
 //
 
 ### O:
