@@ -146,6 +146,7 @@
 // [cpp-project-based-learning](https://github.com/tuvtran/project-based-learning)
 // [cs50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 // [custom-command-line-python](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+// [custom-library-in-cpp](http://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index)
 // [customize-your-vim-editor](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
 //
 
