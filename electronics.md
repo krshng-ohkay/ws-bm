@@ -31,6 +31,7 @@
 
 ### C:
 // [cb2](http://cb2.qrp.gr)
+// [chaotic-circuits](https://www.chaotic-circuits.com/)
 // [chip-8](https://chip-8.com/)
 // [chip-verify](https://www.chipverify.com/)
 // [circuit-bending](http://www.anti-theory.com/soundart/circuitbend/)
