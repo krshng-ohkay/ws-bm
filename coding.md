@@ -316,6 +316,7 @@
 
 ### T:
 // [taking-command-line-arguments-python](https://www.devdungeon.com/content/taking-command-line-arguments-python)
+// [tauri](https://tauri.app/)
 // [teach-yourself-cs](https://teachyourselfcs.com/)
 // [telegram-bash-bot](https://github.com/topkecleon/telegram-bot-bash)
 // [telegram-bots](https://core.telegram.org/bots)
