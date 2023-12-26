@@ -123,6 +123,7 @@
 //
 
 ### R:
+// [ratatui](https://ratatui.rs/)
 // [rexpaint](https://www.gridsagegames.com/rexpaint/)
 // [ruby-curses](https://www.rubydoc.info/gems/curses)
 // [ruby-tty](https://github.com/piotrmurach/tty)
