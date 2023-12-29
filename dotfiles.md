@@ -19,6 +19,7 @@
 
 ### C:
 // [capuno](https://rice.capuno.cat/)
+// [code-heister](https://github.com/CodeHeister/dotfiles)
 //
 
 ### D:
