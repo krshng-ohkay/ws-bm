@@ -63,11 +63,13 @@
 ### L:
 // [lagrange](gemini://skyjake.fi/lagrange/)
 // [leo-orbit](gemini://tilde.team/~khuxkm/leo/)
+// [low-tech-webring](https://emreed.net/LowTech_Directory)
 //
 
 ### M:
 // [makeworld](gemini://makeworld.space/)
 // [medusae](gemini://medusae.space/)
+// [merveilles-webring](https://webring.xxiivv.com/)
 // [midnight-pub](http://gemini//midnight.pub/)
 // [mozz](gemini://mozz.us)
 // [mozz-proxy](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
