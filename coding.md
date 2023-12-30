@@ -230,6 +230,7 @@
 ### L:
 // [laracasts](https://laracasts.com/)
 // [laravel-zero](https://laravel-zero.com/)
+// [learn-x-by-doing-y](https://github.com/aquadzn/learn-x-by-doing-y)
 // [learn-by-example-gnu-langs](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
 // [learn-c](https://www.learn-c.org/)
 // [learn-cpp](https://www.learncpp.com/)
