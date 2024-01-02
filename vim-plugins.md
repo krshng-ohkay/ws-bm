@@ -86,6 +86,7 @@
 ### V:
 // [vim-awesome](https://vimawesome.com/)
 // [vim-plug](https://github.com/junegunn/vim-plug)
+// [vimwiki](https://github.com/vimwiki/vimwiki)
 //
 
 ### Y:

@@ -139,6 +139,7 @@
 ### V:
 // [vanilla-papers](https://vanillapapers.net/)
 // [vimflowy](https://www.wuthejeff.com/vimflowy/#)
+// [vimwiki](https://github.com/vimwiki/vimwiki)
 // [vir](https://github.com/TommyX12/VIR)
 //
 
