@@ -21,57 +21,60 @@
 //
 
 ### [lang] E:
-// [elixir-lang](https://elixir-lang.org/)
+// [elixir](https://elixir-lang.org/)
 //
 
 ### [lang] F:
-// [fennel-lang](https://fennel-lang.org/)
-// [forth-lang](https://www.forth.com/forth/)
-// [fortran-lang](https://fortran-lang.org/)
+// [fennel](https://fennel-lang.org/)
+// [forth](https://www.forth.com/forth/)
+// [fortran](https://fortran-lang.org/)
 //
 
 ### [lang] G:
-// [go-lang](https://golang.org/)
+// [go](https://golang.org/)
 //
 
 ### [lang] H:
-// [hy-lang](https://docs.hylang.org/en/stable/)
+// [hy](https://docs.hylang.org/en/stable/)
 //
 
 ### [lang] J:
-// [janet-lang](https://janet-lang.org/)
+// [janet](https://janet-lang.org/)
 //
 
 ### [lang] K:
-// [kitten-lang](http://kittenlang.org/)
-// [kotlin-lang](https://kotlinlang.org)
+// [kitten](http://kittenlang.org/)
+// [kotlin](https://kotlinlang.org)
 //
 
 ### [lang] L:
-// [lisp-lang](https://lisp-lang.org/)
+// [lisp](https://lisp-lang.org/)
 //
 
 ### [lang] P:
 // [percival](https://github.com/ekzhang/percival)
-// [perl-lang](https://www.perl.org/)
-// [php-lang](https://www.php.net/)
+// [perl](https://www.perl.org/)
+// [php](https://www.php.net/)
 //
 
 ### [lang] R:
-// [red-lang](https://www.red-lang.org/)
-// [retro-forth-lang](http://www.retroforth.org/)
-// [ruby-lang](https://www.ruby-lang.org/en/)
-// [rust-lang](https://www.rust-lang.org/)
+// [red](https://www.red-lang.org/)
+// [retro-forth](http://www.retroforth.org/)
+// [ruby](https://www.ruby-lang.org/en/)
+// [rust](https://www.rust-lang.org/)
 //
 
 ### [lang] S:
-// [scala-lang](https://www.scala-lang.org/)
+// [scala](https://www.scala-lang.org/)
 //
 
 ### [lang] T:
-// [textile-lang](https://textile-lang.com/)
-// [toml-lang](https://github.com/toml-lang/toml)
+// [textile](https://textile-lang.com/)
+// [toml](https://github.com/toml-lang/toml)
 //
+
+## [lang] Z:
+// [zig](https://ziglang.org/)
 
 ---
 
