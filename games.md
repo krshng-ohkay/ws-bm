@@ -28,6 +28,7 @@
 // [bearcat](https://www.wuthejeff.com/bearcat-game/)
 // [beyond-all-reason](https://www.beyondallreason.info/)
 // [binary-puzzle](https://www.binarypuzzle.com/)
+// [bitburner](https://github.com/bitburner-official/bitburner-src)
 // [boohu](https://github.com/anaseto/boohu)
 // [broforce](https://www.broforcegame.com/)
 // [bytepath](https://github.com/a327ex/BYTEPATH)
