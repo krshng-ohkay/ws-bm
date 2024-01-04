@@ -36,6 +36,7 @@
 //
 
 ### F:
+// [flotes](https://flotes.app/)
 // [focalboard](https://www.focalboard.com/)
 //
 
