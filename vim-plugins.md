@@ -83,6 +83,10 @@
 // [syntastic](https://github.com/vim-syntastic/syntastic)
 //
 
+### T:
+// [tmux-plugin-manager](https://github.com/tmux-plugins/tpm)
+//
+
 ### V:
 // [vim-awesome](https://vimawesome.com/)
 // [vim-plug](https://github.com/junegunn/vim-plug)
