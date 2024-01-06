@@ -54,6 +54,7 @@
 //
 
 ### E:
+// [electric-zine-maker](https://alienmelon.itch.io/electric-zine-maker)
 // [esolangs](https://esolangs.org/wiki/Esoteric_programming_language)
 // [esolangs-github](https://github.com/topics/esoteric-language)
 //
