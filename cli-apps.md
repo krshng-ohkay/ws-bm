@@ -168,6 +168,7 @@
 // [mmdl](https://github.com/techboy-coder/mmdl)
 // [mocp](https://github.com/jonsafari/mocp)
 // [modern-unix-commands](https://github.com/ibraheemdev/modern-unix)
+// [mods](https://github.com/charmbracelet/mods)
 // [moon-buggy](https://www.seehuhn.de/pages/moon-buggy)
 // [mp3-player](http://www.mp3blaster.org/)
 // [mpv](https://mpv.io/)
