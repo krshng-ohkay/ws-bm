@@ -72,6 +72,7 @@
 ### P:
 // [pencil](https://github.com/preservim/vim-pencil)
 // [persistent-undo](https://jovicailic.org/2017/04/vim-persistent-undo/)
+// [platform-io-vim](https://docs.platformio.org/en/stable/integration/ide/vim.html)
 //
 
 ### S:
