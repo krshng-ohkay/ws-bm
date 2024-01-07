@@ -190,6 +190,7 @@
 // [nnn](https://github.com/jarun/nnn)
 // [no-more-secrets](https://github.com/bartobri/no-more-secrets)
 // [no-color](https://no-color.org/)
+// [notes](https://codeberg.org/nereusx/notes)
 // [noti](https://github.com/variadico/noti)
 // [nudoku](https://github.com/jubalh/nudoku)
 // [nushell](https://github.com/nushell/nushell)
