@@ -7,6 +7,7 @@
 
 ### A:
 // [astro](https://github.com/blmayer/astro)
+// [arcade-speakeasy-pub](https://speakeasy.midnight.pub/arcade/)
 //
 
 ### B:
