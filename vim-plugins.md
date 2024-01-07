@@ -61,6 +61,7 @@
 ### N:
 // [neovide](https://github.com/Kethku/neovide)
 // [neovim](https://github.com/neovim/neovim)
+// [neovimcraft](https://neovimcraft.com/)
 // [nerdtree](https://github.com/preservim/nerdtree)
 // [nvchad](https://github.com/NvChad/NvChad)
 //
