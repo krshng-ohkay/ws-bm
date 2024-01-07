@@ -160,6 +160,7 @@
 ### S:
 // [serenity-os](https://github.com/SerenityOS/serenity)
 // [sigma-fm](https://github.com/aleksey-hoffman/sigma-file-manager)
+// [sist2](https://github.com/simon987/sist2)
 // [slax](https://www.slax.org/)
 // [sodium](https://github.com/Sweets/sodium)
 // [sourceforge](https://sourceforge.net/)
