@@ -262,6 +262,7 @@
 // [sox](http://sox.sourceforge.net/)
 // [speedread](https://github.com/pasky/speedread)
 // [spotifydl](https://github.com/SwapnilSoni1999/spotify-dl)
+// [spotdl](https://github.com/spotDL/spotify-downloader)
 // [sshtron](https://github.com/zachlatta/sshtron)
 // [starship-prompt](https://starship.rs/)
 // [stig](https://github.com/octobanana/stig)
