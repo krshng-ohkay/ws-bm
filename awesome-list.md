@@ -57,6 +57,7 @@
 //
 
 ### R:
+// [awesome-ricing](https://github.com/fosslife/awesome-ricing)
 // [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 //
 
