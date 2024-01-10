@@ -20,6 +20,7 @@
 
 ### C:
 // [capuno](https://rice.capuno.cat/)
+// [chadwm](https://github.com/siduck/chadwm)
 // [code-heister](https://github.com/CodeHeister/dotfiles)
 //
 
