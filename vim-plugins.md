@@ -91,6 +91,7 @@
 
 ### V:
 // [vim-awesome](https://vimawesome.com/)
+// [vim-devicons](https://github.com/ryanoasis/vim-devicons)
 // [vim-plug](https://github.com/junegunn/vim-plug)
 // [vimwiki](https://github.com/vimwiki/vimwiki)
 //
