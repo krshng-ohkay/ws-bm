@@ -124,6 +124,7 @@
 //
 
 ### M:
+// [make-it-yourself-book](https://makeityourself.org/)
 // [mame-dev-emulator](https://www.mamedev.org/)
 // [manga-dex](https://mangadex.tv/)
 // [marvel-movies-chronology](https://external-preview.redd.it/G_RZTeuGxigUXszO5Aie1hGIGxXS5cm7oyuVFMghUYw.jpg?auto=webp&s=d9b21762ad5f33b28983f5db8bcdccd6fcf42538)
