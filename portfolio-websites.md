@@ -185,6 +185,7 @@
 // [nhn](https://github.com/nhn)
 // [nils-m-holm](https://www.t3x.org/index.html)
 // [nitrome](https://www.nitrome.com/)
+// [n-o-d-e](https://n-o-d-e.net/index.html)
 // [no-time-to-play](https://notimetoplay.itch.io)
 // [ncase](https://ncase.me/)
 //
