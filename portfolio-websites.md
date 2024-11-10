@@ -122,6 +122,7 @@
 // [increpare](https://www.increpare.com/)
 // [inkle-studios](http://anchorhead-game.com/)
 // [internet-janitor](https://internet-janitor.itch.io/)
+// [ihsan-kehribar](http://kehribar.me/)
 // [ivan-pasenko](http://www.ivanpanasenko.com)
 //
 
