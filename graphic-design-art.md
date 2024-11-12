@@ -28,6 +28,7 @@
 // [catppuccin-theme](https://github.com/catppuccin)
 // [concept-art-world](https://conceptartworld.com/)
 // [css-art](https://dev.to/poulamic/intro-to-creating-css-art-1ep5)
+// [curation-of-curations](https://www.curationofcurations.com/)
 // [curses-python-tui](https://docs.python.org/3/howto/curses.html)
 // [cursive-rust](https://github.com/gyscos/cursive)
 // [cview](https://code.rocketnine.space/tslocum/cview/)
