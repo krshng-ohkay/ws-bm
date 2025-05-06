@@ -29,6 +29,7 @@
 
 ### B:
 // [baca](https://bacaworld.org/)
+// [bad-diode](https://badd10de.dev/)
 // [baucom-robotics](https://www.baucomrobotics.com/)
 // [bearded-devil](http://bearded-devil.com/)
 // [ben-allen](https://benal.itch.io/)
