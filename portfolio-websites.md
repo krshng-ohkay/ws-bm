@@ -113,6 +113,7 @@
 ### H:
 // [hacker097](https://github.com/HACKER097)
 // [hcv](http://www.hcverma.in/)
+// [helvetica](https://helveticablanc.com/)
 // [horsenburger](https://www.horsenburger.com/)
 // [house-of-saud](https://houseofsaud.com/)
 // [hugh-rundle](https://www.hughrundle.net/)
