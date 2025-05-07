@@ -12,6 +12,7 @@
 // [8-bit-computer](https://eater.net/8bit/)
 // [8-bit-mixtape](https://github.com/8BitMixtape)
 // [8-bit-mixtape-diy](http://macumbista.net/?page_id=4607)
+// [80s-style-basic-computer-with-terminal-basic](https://hackaday.io/project/185198-80s-style-basic-computer-with-terminal-basic)
 //
 
 ### A:
