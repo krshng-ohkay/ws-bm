@@ -138,6 +138,7 @@
 // [tamagotchi-tech-specs](http://tama.loociano.com/)
 // [terminal-BASIC](https://sourceforge.net/projects/terminal-basic/)
 // [tinker-os](https://tinkerboarding.co.uk/wiki/index.php/TinkerOS)
+// [tinycard-game-maker](http://www.technoblogy.com/show?51KR)
 //
 
 ### W:
