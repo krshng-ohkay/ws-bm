@@ -165,6 +165,7 @@
 // [dive-into-systems](https://diveintosystems.org/)
 // [diy-programming-language](https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/)
 // [diy-programming-language-II](https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-1-54a2)
+// [diy-virtual-machine](https://www.jmeiners.com/lc3-vm/)
 // [docopt](http://docopt.org/)
 // [drinking-with-datalog](https://ianthehenry.com/posts/drinking-with-datalog/)
 // [dsa-programiz](https://www.programiz.com/dsa)
