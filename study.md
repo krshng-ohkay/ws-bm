@@ -13,6 +13,7 @@
 //
 
 ### B:
+// [basic-comp-arch-sarangi-iitd](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
 // [book-recomendations-federico](https://federicoterzi.com/books/)
 // [busting-jee-mains](https://bustingjeemain.com/)
 //
