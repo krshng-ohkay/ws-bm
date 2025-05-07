@@ -26,6 +26,7 @@
 // [difference-between](http://www.differencebetween.net/)
 // [dominator](https://www.baucomrobotics.com/domino-robot)
 // [doubtnut](https://doubtnut.com/)
+// [duobook](https://duobook.co/)
 //
 
 ### E:
