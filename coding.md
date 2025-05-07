@@ -264,6 +264,7 @@
 // [nimf](gemini://rawtext.club/~sloum/nimf/)
 // [npm-scripts](https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/)
 // [nodebook](https://github.com/netgusto/nodebook)
+// [nodeschool](https://nodeschool.io/)
 //
 
 ### O:
