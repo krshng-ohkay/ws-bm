@@ -85,6 +85,7 @@
 // [nature-of-code](https://natureofcode.com/)
 // [ness-labs](https://nesslabs.com/)
 // [neural-network-playground](playground.tensorflow.org/)
+// [neural-reckoning](https://neural-reckoning.org/)
 // [notion](https://www.notion.so/)
 //
 
@@ -101,6 +102,7 @@
 // [periodic-table](https://www.webelements.com/)
 // [personal-management-system](https://github.com/Volmarg/personal-management-system)
 // [pomotroid](https://splode.github.io/pomotroid/)
+// [principles-of-neural-science](https://archive.org/details/PrinciplesOfNeuralScienceFifthKANDEL/mode/2up)
 // [project-euler](https://projecteuler.net)
 // [project-gutenberg](https://www.gutenberg.org/)
 //

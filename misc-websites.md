@@ -128,6 +128,7 @@
 // [mame-dev-emulator](https://www.mamedev.org/)
 // [manga-dex](https://mangadex.tv/)
 // [marvel-movies-chronology](https://external-preview.redd.it/G_RZTeuGxigUXszO5Aie1hGIGxXS5cm7oyuVFMghUYw.jpg?auto=webp&s=d9b21762ad5f33b28983f5db8bcdccd6fcf42538)
+// [mechanical-keyboards-oshw](https://github.com/help-14/mechanical-keyboard)
 // [memory-kit](https://www.magneticmemorymethod.com/thank-you-for-requesting-memory-kit/)
 // [modern-wiki](https://www.modernwiki.app/)
 // [monkey-type](https://monkeytype.com/)
