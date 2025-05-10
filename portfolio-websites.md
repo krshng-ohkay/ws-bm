@@ -147,6 +147,7 @@
 ### K:
 // [karol-belina](https://karolbelina.itch.io/)
 // [katherine](https://katherinestasaph.itch.io/)
+// [kika-macfarlane](https://www.kikamacfarlane.co/)
 // [kometbomb](https://github.com/kometbomb)
 //
 
