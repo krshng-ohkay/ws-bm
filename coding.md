@@ -295,6 +295,7 @@
 
 ### R:
 // [rappel](https://github.com/yrp604/rappel)
+// [refactoring-guru](https://refactoring.guru/)
 // [repl-node-demo](https://nodejs.org/en/knowledge/REPL/how-to-create-a-custom-repl/)
 // [repl-py-demo](https://github.com/centralityai/repl-demo)
 // [retro](https://github.com/raphamorim/retro)
