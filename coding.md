@@ -11,6 +11,10 @@
 // [P](#lang-p) // [Q](#lang-q) // [R](#lang-r) // [S](#lang-s) // [T](#lang-t) // [U](#lang-u) // [V](#lang-v) // [W](#lang-w)
 // [X](#lang-x) // [Y](#lang-y) // [Z](#lang-z) //
 
+### [lang] B:
+// [bhailang](https://bhailang.js.org/)
+//
+
 ### [lang] C:
 // [clisp](https://clisp.sourceforge.io/)
 // [clojure](https://clojure.org/)
