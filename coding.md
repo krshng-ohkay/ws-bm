@@ -267,6 +267,7 @@
 // [nasm](https://www.nasm.us/)
 // [nasm-tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 // [nasm-tutorialspoint](https://www.tutorialspoint.com/assembly_programming/index.htm)
+// [nengo-neuro](https://www.nengo.ai/)
 // [nimf](gemini://rawtext.club/~sloum/nimf/)
 // [npm-scripts](https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/)
 // [nodebook](https://github.com/netgusto/nodebook)
@@ -300,6 +301,7 @@
 //
 
 ### R:
+// [r-for-data-science](https://r4ds.hadley.nz/)
 // [rappel](https://github.com/yrp604/rappel)
 // [refactoring-guru](https://refactoring.guru/)
 // [repl-node-demo](https://nodejs.org/en/knowledge/REPL/how-to-create-a-custom-repl/)

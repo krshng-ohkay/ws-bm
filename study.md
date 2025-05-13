@@ -90,6 +90,7 @@
 //
 
 ### O:
+// [open-neuromorphic](https://open-neuromorphic.org/)
 // [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology)
 // [open-vim](https://www.openvim.com/)
 // [organic-chemistry](http://www.3rd1000.com/chem301/chem30.htm)
