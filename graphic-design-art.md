@@ -97,6 +97,7 @@
 
 ### N:
 // [ncurses](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
+// [neo-brutalism-how-to](https://dribbble.com/shots/20764973-Neobrutalism-UI-How-to)
 // [notcurses](https://github.com/dankamongmen/notcurses)
 // [npyscreen](https://npyscreen.readthedocs.io/introduction.html)
 //
