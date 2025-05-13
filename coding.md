@@ -13,6 +13,7 @@
 
 ### [lang] B:
 // [bhailang](https://bhailang.js.org/)
+// [bhaulang](https://github.com/hackerspider09/BhauLang)
 //
 
 ### [lang] C:
