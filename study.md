@@ -131,6 +131,7 @@
 // [toki-pona](https://tokipona.org/)
 // [toki-pona-fan-made](http://tokipona.net/tp/default.aspx)
 // [toki-pona-tutorial](https://devurandom.xyz/tokipona/)
+// [tonic-minds](https://tonicminds.io/)
 // [touch-typing](https://www.typingstudy.com/)
 // [transistors-to-tetris](https://www.youtube.com/watch?v=6caLyckwo7U)
 // [two-bit-history](https://twobithistory.org/)
