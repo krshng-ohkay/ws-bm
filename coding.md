@@ -232,6 +232,7 @@
 //
 
 ### K:
+// [kaleidoscope-llvm](https://llvm.org/docs/tutorial/index.html)
 // [kernel](https://www.kernel.org/)
 // [khan-academy-computer-programming](https://www.khanacademy.org/computing/computer-programming)
 // [kikodo](https://www.kikodo.io/)
