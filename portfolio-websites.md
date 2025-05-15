@@ -149,6 +149,7 @@
 // [katherine](https://katherinestasaph.itch.io/)
 // [kika-macfarlane](https://www.kikamacfarlane.co/)
 // [kometbomb](https://github.com/kometbomb)
+// [konrad-hinsen](https://khinsen.net/)
 //
 
 ### L:
