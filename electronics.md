@@ -29,6 +29,8 @@
 
 ### B:
 // [basic-engine](http://basicengine.org/)
+// [beam-robots](https://smfr.org/robots/)
+// [beam-world](http://www.beam-world.freeservers.com/)
 //
 
 ### C:
