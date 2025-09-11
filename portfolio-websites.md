@@ -72,6 +72,7 @@
 // [denny-busyet](https://dennybusyet.com/)
 // [devine-lu-linvenga](https://xxiivv.com/)
 // [devolver-digital](https://www.devolverdigital.com/)
+// [dhh](https://dhh.dk/)
 // [distrotube](https://distrotube.com/)
 // [dkeg](https://github.com/dkeg)
 // [dominik-johnson](https://dom.ink/)
