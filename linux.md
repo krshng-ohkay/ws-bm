@@ -126,6 +126,7 @@
 //
 
 ### O:
+// [omarchy](https://omarchy.org/)
 // [openbox](http://openbox.org/wiki/Main_Page)
 // [operating-system](https://www.operating-system.org/index.html)
 // [os-dev-wiki](https://wiki.osdev.org/Main_Page)
