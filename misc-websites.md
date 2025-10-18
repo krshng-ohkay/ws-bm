@@ -61,6 +61,7 @@
 //
 
 ### E:
+// [entertrained](https://entertrained.app/)
 // [espanso](https://espanso.org/)
 // [experiments-with-google](https://experiments.withgoogle.com/)
 //
