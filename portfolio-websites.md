@@ -24,6 +24,7 @@
 // [andy-makes](https://andymakesgames.tumblr.com/)
 // [ashner-vollmer](https://ashervollmer.tumblr.com/home)
 // [ass-cheek-valley](https://co-mill.tumblr.com/)
+// [astral](https://astral.sh/)
 // [audiodude](https://github.com/audiodude)
 //
 
@@ -46,7 +47,7 @@
 // [carolina-eyck](https://www.carolinaeyck.com/)
 // [cecile-richard](https://www.cecile-richard.com/)
 // [chaos-forge](https://chaosforge.org/)
-// [charmbracelet](https://github.com/charmbracelet)
+// [charm](https://charm.land/)
 // [chris-were](https://chriswere.uk/)
 // [christian-kaisermann](https://kaisermann.me/)
 // [christian-visintin](https://veeso.github.io/)
