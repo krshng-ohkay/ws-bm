@@ -105,6 +105,7 @@
 // [makers-asylum](https://www.makersasylum.com/)
 // [mark-1-forth](http://www.aholme.co.uk/Mk1/Architecture.htm)
 // [micropython](https://micropython.org/)
+// [micropython-os](https://micropythonos.com/)
 // [moduleur](https://www.shmoergh.com/guides/moduleur-build-guide/)
 //
 
