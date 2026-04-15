@@ -140,6 +140,7 @@
 // [john-gruber-daring-fireball](https://daringfireball.net/)
 // [john-tomasino](https://tomasino.org/)
 // [jonathan-whiting](https://jonathanwhiting.com/)
+// [joseph-bennett](https://josephbennett.tv/)
 // [josh-avanier](https://avanier.studio/)
 // [juhana-leinonen](https://nitku.net/blog/)
 // [julia-evans](https://github.com/jvns)
