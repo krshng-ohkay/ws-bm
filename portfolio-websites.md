@@ -139,6 +139,7 @@
 // [jim-munroe](https://jimmunroe.net/)
 // [john-gruber-daring-fireball](https://daringfireball.net/)
 // [john-tomasino](https://tomasino.org/)
+// [jonah-marrs](https://www.marrs.io/)
 // [jonathan-whiting](https://jonathanwhiting.com/)
 // [joseph-bennett](https://josephbennett.tv/)
 // [josh-avanier](https://avanier.studio/)
