@@ -61,6 +61,7 @@
 //
 
 ### G:
+// [gentle-os](https://luke8086.dev/gentleos32)
 // [get-source-code-of-package-apt-command](https://www.cyberciti.biz/faq/how-to-get-source-code-of-package-using-the-apt-command-on-debian-or-ubuntu/)
 // [gnu](https://www.gnu.org/)
 // [gogh-terminal-colors](https://mayccoll.github.io/Gogh/)
