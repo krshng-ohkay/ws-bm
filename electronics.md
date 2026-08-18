@@ -8,6 +8,7 @@
 ### 0:
 // [100-days-of-RTL](https://github.com/maazm007/100Daysof_RTL/)
 // [3d-printing-basics](https://www.instructables.com/3D-Printing-Basics/)
+// [555-timer-circuits](https://www.555-timer-circuits.com/)
 // [8051-interfacing](https://embetronicx.com/tag/8051/)
 // [8-bit-computer](https://eater.net/8bit/)
 // [8-bit-mixtape](https://github.com/8BitMixtape)
