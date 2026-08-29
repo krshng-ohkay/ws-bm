@@ -81,6 +81,7 @@
 //
 
 ### N:
+// [napkin](https://web.evanchen.cc/napkin.html)
 // [national-digital-library](https://ndl.iitkgp.ac.in/)
 // [nature-of-code](https://natureofcode.com/)
 // [ness-labs](https://nesslabs.com/)
