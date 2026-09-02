@@ -25,6 +25,7 @@
 
 ### D:
 // [difference-between](http://www.differencebetween.net/)
+// [ding](https://www-user.tu-chemnitz.de/~fri/ding/)
 // [dominator](https://www.baucomrobotics.com/domino-robot)
 // [doubtnut](https://doubtnut.com/)
 // [duobook](https://duobook.co/)
